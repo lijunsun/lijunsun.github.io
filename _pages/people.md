@@ -25,10 +25,10 @@ Current students @ McGill University.
 * Xiaoxu Chen (2020.9-, CSC, MEDA International)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
+* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA)
 
 
 ## Master Students
-* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc)
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 
 ## Alumni
