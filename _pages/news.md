@@ -4,7 +4,24 @@ permalink: /news/
 author_profile: true
 ---
 
-* 09/2021: Dr. Seongjin Choi from KAIST (Korea) will join our group as a postdoc researcher starting from January 2022. 
+* 02/2022: Dr. Yuankai Wu has joined Department of Computer Science at Sichuan University as a tenure-track professor. It has been wonderful two years. Best wishes for you! 
+
+* 01/2022: Paper "Quantifying out-of-station waiting time in oversaturated urban metro systems" from Zhanhong and Kangli (visiting PhD from BJTU) is accepted at Communications in Transportation Research. Congratulations!
+
+* 01/2022: Team from KAIST with Seongjin won the 3rd place in the AED50 data competition in TRB! Congratulations!
+
+* 01/2022: Zhanhong's paper "Real-Time Forecasting of Metro Origin-Destination Matrices with High-Order Weighted Dynamic Mode Decomposition" is accepted at Transportation Science. Congrats, Zhanhong!
+
+* 12/2021: Congratulations to Mengying Lei, Xinyu Chen, and Chengyuan Zhang on winning the CIRRELT Excellent Master/PhD Scholarship in the 2021-2022 competition. 
+
+* 12/2021: Dr. Sun gave an keynote presentation (online) at the 20th COTA International Conference of Transportation
+Professionals (CICTP).
+
+* 12/2021: Dr. Seongjin Choi from KAIST (Korea) joined our group as a postdoc researcher starting from January 2022. 
+
+* 11/2021: Our group got an NSERC Alliance Grant to work together with transit.app on travel behavior/pattern inference. Congrats, Team!
+
+* 10/2021: Chengyuan has successfully completed the CIVE 701 exam for his master-phd-fast-track application. Congrats, Chengyuan!
 
 * 09/2021: Yuankai's paper "Deep learning-based super-resolution climate simulator-emulator framework for urban heat studies" is accepted at Geophysical Research Letters (AGU). 
 
