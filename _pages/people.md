@@ -8,7 +8,6 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship)
 * [Wenshuo Wang](http://wenshuow.com/) (2021.7-, IVADO Postdoc Fellowship)
 * Mengyi Sha (2021.8-, co-supervised Postdoc Researcher, main supervisor Prof. Wei Qi)
 * [Seongjin Choi](https://benchoi93.github.io/) (2022.1-, co-supervised with Prof. Nicolas Saunier)
@@ -32,6 +31,7 @@ Current students @ McGill University.
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 
 ## Alumni
+* [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
 * Mojdeh Sharafi (2019.9-2021.8, Master student co-supervised with Prof. Laxmi Sushama)
 * Tianyu Shi (2020.1-2021.8, Master student co-supervised with Prof. Luis Miranda-Moreno, GEF, IVADO Msc, Now: PhD @ UofT)
 * Shirwa Mahdi (2020.1-2021.6, Master student co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
