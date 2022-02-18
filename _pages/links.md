@@ -9,7 +9,6 @@ Research
 * [De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)
-* [The Ph.D. Grind](http://pgbovine.net/PhD-memoir.htm)
 
 
 Machine learning basics
