@@ -4,13 +4,19 @@ permalink: /news/
 author_profile: true
 ---
 
+* 03/2022: Xudong's paper "Extracting dynamic mobility patterns by Hankel dynamic modes decomposition" is accepted at TRISTAN 2022. 
+
+* 03/2022: Paper "Bayesian Kernelized Matrix Factorization for Spatiotemporal Traffic Data Imputation and Kriging" from Mengying is accepted at IEEE Transactions on ITS. Congratulations! [Full paper](http://dx.doi.org/10.1109/TITS.2022.3161792)
+
+* 03/2022: Paper "A Universal Framework of Spatiotemporal Bias Block for Long-Term Traffic Forecasting" from Fuqiang is accepted at IEEE Transactions on ITS. Congratulations! [Full paper](http://dx.doi.org/10.1109/TITS.2022.3157129)
+
 * 02/2022: Dr. Yuankai Wu has joined Department of Computer Science at Sichuan University as a tenure-track professor. It has been wonderful two years. Best wishes for you! 
 
-* 01/2022: Paper "Quantifying out-of-station waiting time in oversaturated urban metro systems" from Zhanhong and Kangli (visiting PhD from BJTU) is accepted at Communications in Transportation Research. Congratulations!
+* 01/2022: Paper "Quantifying out-of-station waiting time in oversaturated urban metro systems" from Zhanhong and Kangli (visiting PhD from BJTU) is accepted at Communications in Transportation Research. Congratulations! [Full paper](https://doi.org/10.1016/j.commtr.2022.100052)
 
 * 01/2022: Team from KAIST with Seongjin won the 3rd place in the AED50 data competition in TRB! Congratulations!
 
-* 01/2022: Zhanhong's paper "Real-Time Forecasting of Metro Origin-Destination Matrices with High-Order Weighted Dynamic Mode Decomposition" is accepted at Transportation Science. Congrats, Zhanhong!
+* 01/2022: Zhanhong's paper "Real-Time Forecasting of Metro Origin-Destination Matrices with High-Order Weighted Dynamic Mode Decomposition" is accepted at Transportation Science. Congrats, Zhanhong! [Full paper](https://doi.org/10.1287/trsc.2022.1128)
 
 * 12/2021: Congratulations to Mengying Lei, Xinyu Chen, and Chengyuan Zhang on winning the CIRRELT Excellent Master/PhD Scholarship in the 2021-2022 competition. 
 
@@ -23,7 +29,7 @@ Professionals (CICTP).
 
 * 10/2021: Chengyuan has successfully completed the CIVE 701 exam for his master-phd-fast-track application. Congrats, Chengyuan!
 
-* 09/2021: Yuankai's paper "Deep learning-based super-resolution climate simulator-emulator framework for urban heat studies" is accepted at Geophysical Research Letters (AGU). 
+* 09/2021: Yuankai's paper "Deep learning-based super-resolution climate simulator-emulator framework for urban heat studies" is accepted at Geophysical Research Letters (AGU). [Full paper](https://doi.org/10.1029/2021GL094737)
 
 * 09/2021: Paper "Low-Rank Autoregressive Tensor Completion for Spatiotemporal Traffic Data Imputation" from Xinyu and Mengying is accepted at IEEE Transactions on ITS. [Full paper](https://arxiv.org/abs/2104.14936)
 
