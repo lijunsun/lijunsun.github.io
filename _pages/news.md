@@ -4,6 +4,12 @@ permalink: /news/
 author_profile: true
 ---
 
+* 04/2022: Paper "Real-time dispatching of operating buses during unplanned disruptions to urban rail transit system" with Prof. Jin from SJTU is accepted at Transportation Research Part C. Congratulations! [Full paper](https://doi.org/10.1016/j.trc.2022.103696)
+
+* 04/2022: Wenshuo is selected as a [Rising Star Scholar on "AI+X"](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by [Baidu Xueshu](https://xueshu.baidu.com) (百度学术). Congrats, Wenshuo!
+
+* 04/2022: Zhanhong has a very successful defense for his PhD thesis "Travel-Behavior-Based Inference and Forecasting Methods in Metro Systems". Congrats, Dr. Cheng!
+
 * 03/2022: Xudong's paper "Extracting dynamic mobility patterns by Hankel dynamic modes decomposition" is accepted at TRISTAN 2022. 
 
 * 03/2022: Paper "Bayesian Kernelized Matrix Factorization for Spatiotemporal Traffic Data Imputation and Kriging" from Mengying is accepted at IEEE Transactions on ITS. Congratulations! [Full paper](http://dx.doi.org/10.1109/TITS.2022.3161792)
