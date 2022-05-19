@@ -26,12 +26,18 @@ Current students @ McGill University.
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA)
 
-
 ## Master Students
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 
+## Undergraduate Students
+* Michael Cimino (2022, Summer/SURE)
+* Kevin Hou (2022, Winter/Summer)
+
+
 ## Alumni
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
+* Dongsheng Liu (2022.1-2022.4, Undergraduate research)
+* Sofia Camp-Nunez (2022.1-2022.4, Undergraduate research)
 * Mojdeh Sharafi (2019.9-2021.8, Master student co-supervised with Prof. Laxmi Sushama)
 * Tianyu Shi (2020.1-2021.8, Master student co-supervised with Prof. Luis Miranda-Moreno, GEF, IVADO Msc, Now: PhD @ UofT)
 * Shirwa Mahdi (2020.1-2021.6, Master student co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
@@ -40,6 +46,7 @@ Current students @ McGill University.
 * Zhenyuan Ma (2019.1-2020.12, Master student, Now: Research Engineer @ State Grid Corporation of China)
 * Ce Zhang (2018.9-2020.12, Master student co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ Waterloo)
 * Leila Hawa (2019.1-2020.6, Master student, Now: Solution Engineer @ Optibus)
+* Alice Zhao (2019.1-2019.4, Undergraduate research)
 
 
 ## Visiting Students
