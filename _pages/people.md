@@ -22,9 +22,9 @@ Current students @ McGill University.
 * Fuqiang Liu (2019.9-, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Xiaoxu Chen (2020.9-, CSC, MEDA International)
-* [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA)
+* [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA, FRQNT B2X Scholarshipo)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
-* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA)
+* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
 
 ## Master Students
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
@@ -46,7 +46,7 @@ Current students @ McGill University.
 * Zhenyuan Ma (2019.1-2020.12, Master student, Now: Research Engineer @ State Grid Corporation of China)
 * Ce Zhang (2018.9-2020.12, Master student co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ Waterloo)
 * Leila Hawa (2019.1-2020.6, Master student, Now: Solution Engineer @ Optibus)
-* Alice Zhao (2019.1-2019.4, Undergraduate research)
+* Alice Zhao (2019.1-2019.4, Undergraduate research, Now: Transportation Engineer @ WSP)
 
 
 ## Visiting Students
