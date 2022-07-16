@@ -4,6 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* 06/2022: Congratulations to Mengying on winning the poster award from the [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/) held in Montreal!
+
 * 06/2022: Zhihao got FRQNT B2X PhD scholarship and Chengyuan got FRQNT B1X Master's scholarship. Congrats, Zhihao and Chengyuan! Thanks, FRQNT.
 
 * 04/2022: Paper "Real-time dispatching of operating buses during unplanned disruptions to urban rail transit system" with Prof. Jin from SJTU is accepted at Transportation Research Part C. Congratulations! [Full paper](https://doi.org/10.1016/j.trc.2022.103696)
