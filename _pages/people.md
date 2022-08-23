@@ -27,6 +27,8 @@ Current students @ McGill University.
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA, FRQNT B2X Scholarshipo)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
+* [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
+* [Qiujia Liu] (2022.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
 
 ## Master Students
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)

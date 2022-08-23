@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 08/2022: Our group got an NSERC Alliance Grant to work together with Expretio on train booking forecasting. Congrats, Team!
 
 * 06/2022: Congratulations to Mengying on winning the poster award from the [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/) held in Montreal!
 
