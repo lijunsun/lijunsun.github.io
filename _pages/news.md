@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 11/2022: Our project "Statistical Tools for Spatio-temporal Sensor-based Traffic Data" is funded by the [CANSSI Collaborative Research Teams (CRT) Program](https://canssi.ca/story/crt-25/). Our team (Aurelie Labbe @ HEC Montreal, Lijun Sun @ McGill, Denis Larocque @ HEC Montreal, Leo Belzile @ HEC Montreal, Alexandra M. Schmidt @ McGill, Luis Miranda-Moreno @ McGill, Pratheepa Jeganathan @ McMaster, and Stefan Steiner @ Waterloo) will develop statistical tools for modeling spatiotemporal traffic sensing data and support various applications in urban transportation systems.
+
 * 08/2022: Our group got an NSERC Alliance Grant to work together with Expretio on train booking forecasting. Congrats, Team!
 
 * 06/2022: Congratulations to Mengying on winning the poster award from the [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/) held in Montreal!
