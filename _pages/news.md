@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 11/2022: Congratulations to Zhanhong on winning the 2nd Best Paper Award from [CASPT2022](http://www.caspt.org/) at Tel Aviv, with paper ["Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition"](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1128)
+
 * 11/2022: Our project "Statistical Tools for Spatio-temporal Sensor-based Traffic Data" is funded by the [CANSSI Collaborative Research Teams (CRT) Program](https://canssi.ca/story/crt-25/). Our team (Aurelie Labbe @ HEC Montreal, Lijun Sun @ McGill, Denis Larocque @ HEC Montreal, Leo Belzile @ HEC Montreal, Alexandra M. Schmidt @ McGill, Luis Miranda-Moreno @ McGill, Pratheepa Jeganathan @ McMaster, and Stefan Steiner @ Waterloo) will develop statistical tools for modeling spatiotemporal traffic sensing data and support various applications in urban transportation systems.
 
 * 08/2022: Our group got an NSERC Alliance Grant to work together with Expretio on train booking forecasting. Congrats, Team!
