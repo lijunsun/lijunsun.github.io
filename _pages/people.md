@@ -17,7 +17,6 @@ Current students @ McGill University.
 ## PhD Students
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA, FRQNT B2X Scholarship)  
 * Annie Chang (2018.9-, co-supervised with Prof. Luis Miranda-Moreno)
-
 * Mengying Lei (2019.9-, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
 * [Jiawei Wang](https://wangjw6.github.io/) (2019.9-, CIRRELT PhD Scholarship)
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
@@ -29,13 +28,16 @@ Current students @ McGill University.
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
 * [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
 * [Qiujia Liu] (2022.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
+* [Jiarui Xie] (2022.9-, co-supervised with with Prof. Fiona Zhao)
 
 ## Master Students
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
+* Julien Lanthier (2022.9-, co-supervised Msc at PolyMtl, main supervisor Prof. Aurelie Labbe)
 
 ## Undergraduate Students
-* Michael Cimino (2022, Summer/SURE)
+* Michael Cimino (2022, Summer/SURE/Fall)
 * Kevin Hou (2022, Winter/Summer)
+* Yiyi Guo (2022, Fall)
 
 
 ## Alumni
