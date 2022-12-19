@@ -4,6 +4,13 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* 12/2022: Jiawei's paper "Robust Dynamic Bus Control: A Distributional Multi-agent Reinforcement Learning Approach" is accepted at IEEE Transactions on ITS. Congrats, Jiawe! [Full paper](https://dx.doi.org/10.1109/TITS.2022.3229527)
+
+* 11/2022: Our review paper ["Social Interactions for Autonomous Driving: A Review and Perspectives"](https://www.nowpublishers.com/article/Details/ROB-078) is publised at Foundations and Trends (R) in Robotics. Congratulations, Wenshuo and Chengyuan. 
+
+* 11/2022: Paper from Zhanhong and Xudong---"Bayesian calibration of traffic flow fundamental diagrams using Gaussian processes"---is published at IEEE Open Journal of ITS. [Full paper](https://ieeexplore.ieee.org/abstract/document/9943806)
+
 * 11/2022: Congratulations to Zhanhong on winning the 2nd Best Paper Award from [CASPT2022](http://www.caspt.org/) at Tel Aviv, with paper ["Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition"](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1128)
 
 * 11/2022: Our project "Statistical Tools for Spatio-temporal Sensor-based Traffic Data" is funded by the [CANSSI Collaborative Research Teams (CRT) Program](https://canssi.ca/story/crt-25/). Our team (Aurelie Labbe @ HEC Montreal, Lijun Sun @ McGill, Denis Larocque @ HEC Montreal, Leo Belzile @ HEC Montreal, Alexandra M. Schmidt @ McGill, Luis Miranda-Moreno @ McGill, Pratheepa Jeganathan @ McMaster, and Stefan Steiner @ Waterloo) will develop statistical tools for modeling spatiotemporal traffic sensing data and support various applications in urban transportation systems.
