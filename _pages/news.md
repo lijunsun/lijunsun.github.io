@@ -4,6 +4,17 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2/2023: Chengyuan gave a talk at the TRB TFTC General Webinar Series. Video is available on [Youtube](https://www.youtube.com/watch?v=GIqcL6I7MsU).
+
+* 2/2023: Dr. Sun will serve as a Program Committee (PC) member for IJCAI 2023. 
+
+* 2/2023: Fuqiang's paper "Adversarial Danger Identification on Temporally Dynamic Graphs" is accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Congrats, Fuqiang!
+
+* 2/2023: Xudong's paper "Low-Rank Hankel Tensor Completion for Traffic Speed Estimation" is accepted at IEEE Transactions on ITS. Congrats, Xudong! [Full paper](https://arxiv.org/abs/2105.11335)
+
+* 1/2023: Jiawei won the AED50 (TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications) PhD dissertation competition (3rd Place). Congrats, Jiawei!
+
+* 1/2023: Our group had a wonderful week at TRB 2023! Feeling great to see friends and colleagues!
 
 * 12/2022: Jiawei's paper "Robust Dynamic Bus Control: A Distributional Multi-agent Reinforcement Learning Approach" is accepted at IEEE Transactions on ITS. Congrats, Jiawe! [Full paper](https://dx.doi.org/10.1109/TITS.2022.3229527)
 
