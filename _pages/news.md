@@ -8,7 +8,7 @@ author_profile: true
 
 * 2/2023: Dr. Sun will serve as a Program Committee (PC) member for IJCAI 2023. 
 
-* 2/2023: Fuqiang's paper "Adversarial Danger Identification on Temporally Dynamic Graphs" is accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Congrats, Fuqiang!
+* 2/2023: Fuqiang's paper "Adversarial Danger Identification on Temporally Dynamic Graphs" is accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Congrats, Fuqiang! [Full paper](https://ieeexplore.ieee.org/abstract/document/10068359)
 
 * 2/2023: Xudong's paper "Low-Rank Hankel Tensor Completion for Traffic Speed Estimation" is accepted at IEEE Transactions on ITS. Congrats, Xudong! [Full paper](https://arxiv.org/abs/2105.11335)
 

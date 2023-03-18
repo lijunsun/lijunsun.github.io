@@ -30,12 +30,12 @@ For Prospective Students/Postdocs
 
 Research Interests
 ======
-* Urban computing & smart cities
-* Machine learning for mobility modeling
-* Public transportation operation
+* Spatiotemporal modeling
 * Intelligent transportation systems
-* Spatio-temporal traffic state modeling/predication
-<!-- * Infrastructure resilience -->
-* Data-driven urban/transportation systems modeling
-* Human mobility and travel behavior
+* Machine learning & Statistics
+* Tensor analysis
+* Traffic simulation
+* Urban computing & smart cities
+* Public transportation operation
+* Mobility and travel behavior
 * Agent-based modeling and simulation
