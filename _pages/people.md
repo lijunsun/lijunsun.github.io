@@ -32,7 +32,7 @@ Current students @ McGill University.
 
 ## Master Students
 * Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
-* Julien Lanthier (2022.9-, co-supervised Msc at PolyMtl, main supervisor Prof. Aurelie Labbe)
+* Julien Lanthier (2022.9-, co-supervised Msc at HEC Montreal, main supervisor Prof. Aurelie Labbe)
 
 ## Undergraduate Students
 * Michael Cimino (2022, Summer/SURE/Fall)

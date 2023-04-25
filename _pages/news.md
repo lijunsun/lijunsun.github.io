@@ -4,6 +4,10 @@ permalink: /news/
 author_profile: true
 ---
 
+* 4/2023: Dr. Sun was awarded the 2023 [Christophe Pierre Award for Research Excellence (Early Career)](https://www.mcgill.ca/engineering/faculty-staff/teaching-research-and-service-awards/research-awards) from McGill's Faculty of Engineering!
+
+* 4/2023: HUGE Huge congratulations to Dr. [Seongjin Choi](https://benchoi93.github.io) from our lab on accepting a tenure-track Assistant Professor in Transportation Engineering at the University of Minnesota!!! Proud supervisor moment!!!
+
 * 2/2023: Chengyuan gave a talk at the TRB TFTC General Webinar Series. Video is available on [Youtube](https://www.youtube.com/watch?v=GIqcL6I7MsU).
 
 * 2/2023: Dr. Sun will serve as a Program Committee (PC) member for IJCAI 2023. 
