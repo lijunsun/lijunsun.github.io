@@ -14,93 +14,75 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
-
-Journal Publications
-======
-
-The list is not frequently updated. Please see Google Scholar for recent updates.
-
-* Wang J, Sun L (2020) Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework. Transportation Research Part C: Emerging Technologies 116: 102661. (doi:[10.1016/j.trc.2020.102661](https://doi.org/10.1016/j.trc.2020.102661)) <!--[[pdf](../files/papers/2020-TRC-Bus.pdf)]-->
-
-* Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:[10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025)) <!--[[pdf](../files/papers/2019-JCP-Bike.pdf)]-->
-
-* Wang J, Kong X, Xia F, Sun L (2019) Urban human mobility: data-driven modeling and prediction. ACM SIGKDD Explorations 21(1): 1-19. (doi:[10.1145/3331651.3331653](https://doi.org/10.1145/3331651.3331653)) <!--[[pdf](../files/papers/2019-KDD-Explorations.pdf)]-->
-
-* Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022)) <!--[[pdf](../files/papers/2019-TRC-Privacy.pdf)]-->
-
-* Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record 2673(8): 536-543. (doi:[10.1177/0361198119844240](https://doi.org/10.1177/0361198119844240)) <!--[[pdf](../files/papers/2019-TRR-Airport.pdf)]-->
-
-* Chen X, He Z, Sun L (2019) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003)) <!--[[pdf](../files/papers/2019-TRC-Tensor.pdf)]-->
-
-* Alabdulkareem A, Frank MR, Sun L, AlShebli B, Hidalgo C, Rahwan I (2018) Unpacking the polarization of workplace skills. Science Advances 4(7):eaao6030. (doi:[10.1126/sciadv.aao6030](http://dx.doi.org/10.1126/sciadv.aao6030)) <!--[[pdf](../files/papers/2018-SA-Skills.pdf)]-->
-
-* Sun L, Erath A, Cai M (2018) A hierarchical mixture modeling framework for population synthesis. Transportation Research Part B: Methodological 114:199-212. (doi:[10.1016/j.trb.2018.06.002](https://doi.org/10.1016/j.trb.2018.06.002)) [[Code](https://github.com/lijunsun/population_synthesis_hierarchical)] <!--[[pdf](../files/papers/2018-TRB-Population.pdf)]-->
-
-* Frank MR, Obradovich N, Sun L, Woon WL, LeVeck BL, Rahwan I (2018) Detecting reciprocity at global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http://dx.doi.org/10.1126/sciadv.aao5348)) <!--[[pdf](../files/papers/2018-SA-Reciprocity.pdf)]-->
-
-* Frank MR, Sun L, Cebrian M, Youn HJ, Rahwan I (2018) Small cities face greater impact from automation. Journal of the Royal Society Interface 15 (139):20170946. (doi:[10.1098/rsif.2017.0946](http://dx.doi.org/10.1098/rsif.2017.0946)) <!--[[pdf](../files/papers/2018-RSInterface-City.pdf)]-->
-
-* Sun L, Rahwan I (2017) Coauthorship network structure in transportation research. Transportation Research Part A: Policy and Practice 100:135-151. (doi:[10.1016/j.tra.2017.04.011](http://dx.doi.org/10.1016/j.tra.2017.04.011)) <!--[[pdf](../files/papers/2017-TRA-Coauthor.pdf)]-->
-
-* Sun L, Yin Y (2017) Discovering themes and trends in transportation research using topic modeling. Transportation Research Part C: Emerging Technology 77:49-66. (doi:[10.1016/j.trc.2017.01.013](http://dx.doi.org/10.1016/j.trc.2017.01.013)) <!--[[pdf](../files/papers/2017-TRC-Topics.pdf)]-->
-
-
-* Sun L, Axhausen KW (2016) Understanding urban mobility patterns with a probabilistic tensor factorization framework. Transportation Research Part B: Methodological 91:511-524. (doi:[10.1016/j.trb.2016.06.011](http://dx.doi.org/10.1016/j.trb.2016.06.011)) [[Code](https://github.com/lijunsun/probabilistic_tucker_transport)] <!--[[pdf](../files/papers/2016-TRB-Tensor.pdf)]-->
-
-* Tirachini A, Sun L, Erath A, Chakirov A (2016) Valuation of sitting and standing in metro trains using revealed preferences. Transport Policy 47:94-104. (doi:[10.1016/j.tranpol.2015.12.004](http://dx.doi.org/10.1016/j.tranpol.2015.12.004)) <!--[[pdf](../files/papers/2016-TP-Crowding.pdf)]-->
-
-* Jin JG, Lu L, Sun L,Yin J (2015) Optimal allocation of protective resources in urban rail transit networks against intentional attacks. Transportation Research Part E: Logistics and Transportation Review 84:73-87. (doi:[10.1016/j.tre.2015.10.008](http://dx.doi.org/10.1016/j.tre.2015.10.008)) <!--[[pdf](../files/papers/2015-TRE-Resilience.pdf)]-->
-
-* Sun L, Erath A (2015) A Bayesian network approach for population synthesis. Transportation Research Part C: Emerging Technologies 61:49-62. (doi:[10.1016/j.trc.2015.10.010](http://dx.doi.org/10.1016/j.trc.2015.10.010)) <!--[[pdf](../files/papers/2015-TRC-BN-Population.pdf)]-->
-
-* Long Y, Sun L, Tao S (2015) A review of urban studies based on transit smart card data. Urban Planning Forum 223:70-77. (in Chinese) (doi:[10.16361/j.upf.201503009](http://dx.doi.org/10.16361/j.upf.201503009)) <!--[[pdf](../files/papers/2015-UP-SCD.pdf)]-->
-
-* Sun L, Lu Y, Jin JG, Lee D-H, Axhausen KW (2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001)) [[Code](https://github.com/lijunsun/MetroAssignment)] <!--[[pdf](../files/papers/2015-TRC-Metro.pdf)]-->
-
-* Sun L, Jin JG, Axhausen KW, Lee D-H, Cebrian M (2015) Quantifying long-term evolution of intraurban spatial interactions. Journal of the Royal Society Interface 12:20141089. (doi:[10.1098/rsif.2014.1089](http://dx.doi.org/10.1098/rsif.2014.1089)) <!--[[pdf](../files/papers/2015-RSInterface-Spatial.pdf)]-->
-
-* Sun L, Tirachini A, Axhausen KW, Erath A, Lee D-H (2014) Models of bus boarding and alighting dynamics. Transportation Research Part A: Policy and Practice 69:447-460. (doi:[10.1016/j.tra.2014.09.007](http://dx.doi.org/10.1016/j.tra.2014.09.007)) <!--[[pdf](../files/papers/2014-TRA-Dwell.pdf)]-->
-
-* Sun L, Axhausen KW, Lee D-H, Cebrian M (2014) Efficient detection of contagious outbreaks in massive metropolitan encounter networks. Scientific Reports 4:5099. (doi:[10.1038/srep05099](http://dx.doi.org/10.1038/srep05099)) <!--[[pdf](../files/papers/2014-SR-Epdemics.pdf)]-->
-
-* Sun L, Jin JG, Lee D-H, Axhausen KW, Erath A (2014) Demand-driven timetable design for metro services. Transportation Research Part C: Emerging Technologies 46:284-299. (doi:[10.1016/j.trc.2014.06.003](http://dx.doi.org/10.1016/j.trc.2014.06.003)) <!--[[pdf](../files/papers/2014-TRC-Timetable.pdf)]-->
-
-
-* Jin JG, Tang LC, Sun L, Lee D-H (2014) Enhancing metro network resilience via localized integration with bus services. Transportation Research Part E: Logistics and Transportation Review 63:17-30. (doi:[10.1016/j.tre.2014.01.002](http://dx.doi.org/10.1016/j.tre.2014.01.002)) <!--[[pdf](../files/papers/2014-TRE-Resilience.pdf)]-->
-
-
-* Sun L, Axhausen KW, Lee D-H, Huang X (2013) Understanding metropolitan patterns of daily encounters. Proceedings of the National Academy of Sciences of the United States of America (PNAS) 110(34):13774-13779. (doi:[10.1073/pnas.1306440110](http://dx.doi.org/10.1073/pnas.1306440110)) <!--[[pdf](../files/papers/2013-PNAS-Encounter.pdf)]-->
-
-
-* Lee D-H, Wu X, Sun L (2013) Limited information-sharing strategy for the taxi-customer searching problem in the non-booking taxi services. Transportation Research Record: Journal of the Transportation Research Board. 2284:57-61. (doi:[10.3141/2333-06](http://dx.doi.org/10.3141/2333-06)) <!--[[pdf](../files/papers/2013-TRR-Taxi.pdf)]-->
+The list is not frequently updated. You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
 
 
 
-Conference Publications
-======
-* Sun L, Chen X, He Z, Miranda-Moreno LF (2019) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+Recent Representative Publication by Research Themes:
+=
 
-* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (2019) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+Spatiotemporal modeling (Bayesian statistics)
+-
+* Lei, Mengying, Aurelie Labbe, and Lijun Sun. ["Bayesian Complementary Kernelized Learning for Multidimensional Spatiotemporal Data."](https://arxiv.org/abs/2208.09978) arXiv preprint arXiv:2208.09978 (2022).
+* Lei, Mengying, Aurelie Labbe, Yuankai Wu, and Lijun Sun. ["Bayesian kernelized matrix factorization for spatiotemporal traffic data imputation and kriging."](https://ieeexplore.ieee.org/abstract/document/9745749) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 18962-18974.
+* Lei, Mengying, Aurelie Labbe, and Lijun Sun. ["Scalable Spatiotemporally Varying Coefficient Modelling with Bayesian Kernelized Tensor Regression."](https://arxiv.org/abs/2109.00046) arXiv preprint arXiv:2109.00046 (2021).
+* Chen, Xinyu, and Lijun Sun. ["Bayesian temporal factorization for multidimensional time series prediction."](https://ieeexplore.ieee.org/abstract/document/9380704) IEEE Transactions on Pattern Analysis and Machine Intelligence 44, no. 9 (2021): 4659-4673.
+* Chen, Xinyu, Zhaocheng He, and Lijun Sun. ["A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation."](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X) Transportation research part C: emerging technologies 98 (2019): 73-84.
+* Wu, Fan, Zhanhong Cheng, Huiyu Chen, Tony Z. Qiu, and Lijun Sun. ["Traffic State Estimation with Anisotropic Gaussian Processes from Vehicle Trajectories."](https://arxiv.org/abs/2303.02311) arXiv preprint arXiv:2303.02311 (2023).
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (2019) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Gao J, Sun L, Cai M (2019) Measuring privacy vulnerability of individual mobility traces: a case study on license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+Spatiotemporal modeling (deep learning)
+-
+* Liang, Yuebing, Zhan Zhao, and Lijun Sun. ["Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns."](https://www.sciencedirect.com/science/article/pii/S0968090X22002479) Transportation Research Part C: Emerging Technologies 143 (2022): 103826.
+* Wu, Yuankai, Dingyi Zhuang, Mengying Lei, Aurelie Labbe, and Lijun Sun. ["Spatial Aggregation and Temporal Convolution Networks for Real-time Kriging."](https://arxiv.org/abs/2109.12144) arXiv preprint arXiv:2109.12144 (2021).
+* Wu, Yuankai, Dingyi Zhuang, Aurelie Labbe, and Lijun Sun. ["Inductive graph neural networks for spatiotemporal kriging."](https://ojs.aaai.org/index.php/AAAI/article/view/16575) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 5, pp. 4478-4485. 2021.
+* Wu, Yuankai, Zhanhong Cheng, and Lijun Sun. ["Individual Mobility Prediction via Attentive Marked Temporal Point Processes."](https://arxiv.org/abs/2109.02715) arXiv preprint arXiv:2109.02715 (2021).
 
-* Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](http://dx.doi.org/10.1109/ITSC.2015.141))
+Spatiotemporal modeling (low-rank models, tensor completion, DMD)
+-
+* Wang, Xudong, and Lijun Sun. ["Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis."](https://arxiv.org/abs/2302.07108) arXiv preprint arXiv:2302.07108 (2023).
+* Wang, Xudong, et al. ["Low-rank Hankel tensor completion for traffic speed estimation."](https://ieeexplore.ieee.org/abstract/document/10058108) IEEE Transactions on Intelligent Transportation Systems (2023).
+* Chen, Xinyu, Zhanhong Cheng, Nicolas Saunier, and Lijun Sun. ["Laplacian Convolutional Representation for Traffic Time Series Imputation."](https://arxiv.org/abs/2212.01529) arXiv preprint arXiv:2212.01529 (2022).
+* Chen, Xinyu, Chengyuan Zhang, Xiaoxu Chen, Nicolas Saunier, and Lijun Sun. ["Discovering Dynamic Patterns from Spatiotemporal Data with Time-Varying Low-Rank Autoregression."](https://arxiv.org/abs/2211.15482) arXiv preprint arXiv:2211.15482 (2022).
+* Cheng, Zhanhong, Martin Trepanier, and Lijun Sun. ["Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition."](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1128) Transportation science 56, no. 4 (2022): 904-918.
+* Chen, Xinyu, Chengyuan Zhang, Xi-Le Zhao, Nicolas Saunier, and Lijun Sun. ["Nonstationary temporal matrix factorization for multivariate time series forecasting."](https://arxiv.org/abs/2203.10651) arXiv preprint arXiv:2203.10651 (2022).
+* Wang, Xudong, Luis Miranda-Moreno, and Lijun Sun. ["Hankel-structured tensor robust PCA for multivariate traffic time series anomaly detection."](https://arxiv.org/abs/2110.04352) arXiv preprint arXiv:2110.04352 (2021).
+* Chen, Xinyu, Mengying Lei, Nicolas Saunier, and Lijun Sun. ["Low-rank autoregressive tensor completion for spatiotemporal traffic data imputation."](https://ieeexplore.ieee.org/abstract/document/9548664) IEEE Transactions on Intelligent Transportation Systems 23, no. 8 (2021): 12301-12310.
+* Chen, Xinyu, Jinming Yang, and Lijun Sun. ["A nonconvex low-rank tensor completion model for spatiotemporal traffic data imputation."](https://www.sciencedirect.com/science/article/pii/S0968090X2030588X) Transportation Research Part C: Emerging Technologies 117 (2020): 102673.
 
-* Sun L, Lu Y, Lee D-H (2015) Understanding the structure of urban bus networks: the C-space representation approach. 15th COTA International Conference of Transportation Professionals (Beijing, China). (doi:[10.1061/9780784479292.143](http://dx.doi.org/10.1061/9780784479292.143))
 
-* Zhao K, Sun L, Jin JG, Lee D-H (2015) Analysis of crowding effect on passengers’ movement time based on smart card data. 15th COTA International Conference of Transportation Professionals (Beijing, China). (doi:[10.1061/9780784479292.136](http://dx.doi.org/10.1061/9780784479292.136))
 
-* Sun L, Jin JG, Lee D-H, Axhausen KW (2015) Characterizing multimodal transfer time using smart card data: the effect of time, passenger age, crowdedness and collective pressure. Transportation Research Board (TRB) 94th Annual Meeting (Washington, DC, USA).
+New ideas in deep/statistical/probabilistic time series forecasing
+-
+* Zheng, Vincent Zhihao, Seongjin Choi, and Lijun Sun. ["Enhancing Deep Traffic Forecasting Models with Dynamic Regression."](https://arxiv.org/abs/2301.06650) arXiv preprint arXiv:2301.06650 (2023).
+* Choi, Seongjin, Nicolas Saunier, Martin Trepanier, and Lijun Sun. ["Spatiotemporal residual regularization with dynamic mixtures for traffic forecasting."](https://arxiv.org/abs/2212.06653) arXiv preprint arXiv:2212.06653 (2022).
+* Liu, Fuqiang, Jiawei Wang, Jingbo Tian, Dingyi Zhuang, Luis Miranda-Moreno, and Lijun Sun. ["A Universal Framework of Spatiotemporal Bias Block for Long-Term Traffic Forecasting."](https://ieeexplore.ieee.org/abstract/document/9737430) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 19064-19075.
+* Cheng, Zhanhong, Martin Trépanier, and Lijun Sun. ["Incorporating travel behavior regularity into passenger flow forecasting."](https://www.sciencedirect.com/science/article/pii/S0968090X21002151) Transportation Research Part C: Emerging Technologies 128 (2021): 103200. 
 
-* Jin JG, Teo KM, Sun L (2013) Disruption response planning for an urban Mass Rapid Transit network. Transportation Research Board (TRB) 92nd Annual Meeting (Washington DC, USA).
+Stohastic traffic simulation, driving behavior, and autonomous driving
+-
+* Wang, Wenshuo, Letian Wang, Chengyuan Zhang, Changliu Liu, and Lijun Sun. ["Social interactions for autonomous driving: A review and perspectives."](https://www.nowpublishers.com/article/Details/ROB-078) Foundations and Trends® in Robotics 10, no. 3-4 (2022): 198-376.
+* Wang, Huanjie, Haibin Liu, Wenshuo Wang, and Lijun Sun. ["On Trustworthy Decision-Making Process of Human Drivers from the View of Perceptual Uncertainty Reduction."](https://arxiv.org/abs/2210.08256) arXiv preprint arXiv:2210.08256 (2022).
+* Zhang, Chengyuan, and Lijun Sun. ["Bayesian Calibration of the Intelligent Driver Model."](https://arxiv.org/abs/2210.03571) arXiv preprint arXiv:2210.03571 (2022).
+* Wang, Huanjie, Wenshuo Wang, Shihua Yuan, Xueyuan Li, and Lijun Sun. ["On social interactions of merging behaviors at highway on-ramps in congested traffic."](https://ieeexplore.ieee.org/abstract/document/9511791) IEEE Transactions on Intelligent Transportation Systems 23, no. 8 (2021): 11237-11248.
 
-* Lee D-H, Wu X, Sun L (2013) Limited information sharing strategy for the taxi-customer searching problem in the non-booking taxi service. Transportation Research Board (TRB) 92nd Annual Meeting (Washington DC, USA).
 
-* Sun L, Lee D-H, Erath A, Huang X (2012) Using smart card data to extract passenger’s spatio-temporal density and train’s trajectory of MRT system. ACM SIGKDD International Workshop on Urban Computing (Beijing, China). (doi:[10.1145/2346496.2346519](http://dx.doi.org/10.1145/2346496.2346519))
 
-* Lee D-H, Sun L, Erath A (2012) Study of bus service reliability in Singapore using fare card data. 12th Asia Pacific ITS Forum & Exhibition (Kuala Lumpur, Malaysia).
 
-* Sun L, Chen X, Xie W, Yang X (2010) Calibration of acceleration-based and multi-anticipative car-following models by NGSIM trajectory data. 10th ASCE International Conference of Chinese Transportation Professionals, ICCTP 2010 (Beijing, China)
+
+Bayesian optimization
+-
+* Lei, Mengying, and Lijun Sun. ["Bayesian Kernelized Tensor Factorization as Surrogate for Bayesian Optimization."](https://arxiv.org/abs/2302.14510) arXiv preprint arXiv:2302.14510 (2023). .
+
+Reinforcement learning for traffic control (bus bunching)
+-
+* Wang, Jiawei, and Lijun Sun. ["Robust Dynamic Bus Control: A Distributional Multi-Agent Reinforcement Learning Approach."](https://ieeexplore.ieee.org/abstract/document/9994636) IEEE Transactions on Intelligent Transportation Systems (2022).
+* Wang, Jiawei, and Lijun Sun. ["Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning."](https://www.ijcai.org/proceedings/2021/60) Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (2021).
+* Wang, Jiawei, and Lijun Sun. ["Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework."](https://www.sciencedirect.com/science/article/pii/S0968090X20305763) Transportation Research Part C: Emerging Technologies 116 (2020): 102661.
+* Wang, Jiawei, and Lijun Sun. ["Multi-Objective Multi-Agent Deep Reinforcement Learning to Reduce Bus Bunching for Multiline Services with a Shared Corridor."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305641) Available at SSRN 4305641.
+
+Other statistical applications
+-
+* Chen, Xiaoxu, Zhanhong Cheng, Jian Gang Jin, Martin Trepanier, and Lijun Sun. ["Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model."](https://arxiv.org/abs/2206.06915) arXiv preprint arXiv:2206.06915 (2022).
+* Zhu, Kangli, Zhanhong Cheng, Jianjun Wu, Fuya Yuan, and Lijun Sun. ["Quantifying out-of-station waiting time in oversaturated urban metro systems."](https://www.sciencedirect.com/science/article/pii/S2772424722000026) Communications in Transportation Research 2 (2022): 100052.
+* Cheng, Zhanhong, Xudong Wang, Xinyuan Chen, Martin Trépanier, and Lijun Sun. ["Bayesian calibration of traffic flow fundamental diagrams using Gaussian processes."](https://ieeexplore.ieee.org/abstract/document/9943806) IEEE Open Journal of Intelligent Transportation Systems 3 (2022): 763-771.
