@@ -6,6 +6,8 @@ author_profile: true
 
 * 4/2023: Big Congrats to Chengyuan on winning the FRQNT B2X Scholarship this year. Thanks, FRQNT.
 
+* 4/2023: Dr. Sun is appointed as a [William Dawson Scholar](https://www.mcgill.ca/provost/academics/distinguished-professorships/wds) of McGill University.
+
 * 4/2023: Dr. Sun was awarded the 2023 [Christophe Pierre Award for Research Excellence (Early Career)](https://www.mcgill.ca/engineering/faculty-staff/teaching-research-and-service-awards/research-awards) from McGill's Faculty of Engineering!
 
 * 4/2023: HUGE Huge congratulations to Dr. [Seongjin Choi](https://benchoi93.github.io) from our lab on accepting a tenure-track Assistant Professor in Transportation Engineering at the University of Minnesota!!! Proud supervisor moment!!!
