@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 5/2023: McGill has approved Dr. Sun's grant of tenure and promotion to Associate Professor!
+
 * 4/2023: Big Congrats to Chengyuan on winning the FRQNT B2X Scholarship this year. Thanks, FRQNT.
 
 * 4/2023: Dr. Sun is appointed as a [William Dawson Scholar](https://www.mcgill.ca/provost/academics/distinguished-professorships/wds) of McGill University.
