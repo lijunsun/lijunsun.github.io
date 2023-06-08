@@ -3,6 +3,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+
 * 6/2023: It is such a great pleasure to join [the 2nd Sustainable Urban Mobility: Simulation and Optimization workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop) organized by Google. Dr. Sun gave a talk on probabilistic modeling of large-scale and high-dimensional spatiotemporal data and Bayesian optimization. The recording can be found [here](https://youtu.be/XGXUDINIPD8?t=13322). 
 
 * 5/2023: McGill has approved Dr. Sun's grant of tenure and promotion to Associate Professor!
