@@ -16,7 +16,6 @@ Current students @ McGill University.
 
 ## PhD Students
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA, FRQNT B2X Scholarship)  
-* Annie Chang (2018.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * Mengying Lei (2019.9-, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
 * [Jiawei Wang](https://wangjw6.github.io/) (2019.9-, CIRRELT PhD Scholarship)
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
@@ -43,6 +42,7 @@ Current students @ McGill University.
 ## Alumni
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl, Now: Postdoc @ McGill)
+* Annie Chang (2018.9-2023.5 co-supervised with Prof. Luis Miranda-Moreno)
 * Dongsheng Liu (2022.1-2022.4, Undergraduate research)
 * Sofia Camp-Nunez (2022.1-2022.4, Undergraduate research)
 * Mojdeh Sharafi (2019.9-2021.8, Master student co-supervised with Prof. Laxmi Sushama)

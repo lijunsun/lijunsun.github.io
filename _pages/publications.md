@@ -54,6 +54,7 @@ Spatiotemporal modeling (low-rank models, tensor completion, DMD)
 
 New ideas in deep/statistical/probabilistic time series forecasing
 -----
+* Zheng, Vincent Zhihao, Seongjin Choi, and Lijun Sun. ["Better Batch for Deep Probabilistic Time Series Forecasting."](https://arxiv.org/abs/2305.17028) arXiv preprint arXiv:2305.17028 (2023).
 * Zheng, Vincent Zhihao, Seongjin Choi, and Lijun Sun. ["Enhancing Deep Traffic Forecasting Models with Dynamic Regression."](https://arxiv.org/abs/2301.06650) arXiv preprint arXiv:2301.06650 (2023).
 * Choi, Seongjin, Nicolas Saunier, Martin Trepanier, and Lijun Sun. ["Spatiotemporal residual regularization with dynamic mixtures for traffic forecasting."](https://arxiv.org/abs/2212.06653) arXiv preprint arXiv:2212.06653 (2022).
 * Liu, Fuqiang, Jiawei Wang, Jingbo Tian, Dingyi Zhuang, Luis Miranda-Moreno, and Lijun Sun. ["A Universal Framework of Spatiotemporal Bias Block for Long-Term Traffic Forecasting."](https://ieeexplore.ieee.org/abstract/document/9737430) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 19064-19075.
