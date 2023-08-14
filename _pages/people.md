@@ -17,7 +17,6 @@ Current students @ McGill University.
 ## PhD Students
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA, FRQNT B2X Scholarship)  
 * Mengying Lei (2019.9-, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
-* [Jiawei Wang](https://wangjw6.github.io/) (2019.9-, CIRRELT PhD Scholarship)
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
 * Fuqiang Liu (2019.9-, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
@@ -40,6 +39,7 @@ Current students @ McGill University.
 
 
 ## Alumni
+* [Jiawei Wang](https://wangjw6.github.io/) (2019.9-2023.9, CIRRELT PhD Scholarship, Now: Postdoc @ UTokyo)
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl, Now: Postdoc @ McGill)
 * Annie Chang (2018.9-2023.5 co-supervised with Prof. Luis Miranda-Moreno)
