@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2018.5-: Assistant Professor, [Department of Civil Engineering and Applied Mechanics](https://www.mcgill.ca/civil/), McGill University
+* 2023.6- : Associate Professor, William Dawson Scholar, [Department of Civil Engineering](https://www.mcgill.ca/civil/), McGill University
+* 2018.5-2023.5: Assistant Professor, [Department of Civil Engineering](https://www.mcgill.ca/civil/), McGill University
 * 2017.8-2018.4: Visiting Professor, School of Engineering, Sun Yat-sen University
 * 2015.8-2017.7: Postdoctoral Associate, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
 * 2014.12-2015.9: Senior Research Fellow, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre

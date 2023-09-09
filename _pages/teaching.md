@@ -20,7 +20,7 @@ CIVE 324
 
 CIVE 440
 --------
-* Traffic Engineering and Simulation (3 credits), McGill University, Fall 2018 (27 students), Fall 2019 (24 students)，Winter 2021 (27 students),  Fall 2022 (34 students)
+* Traffic Engineering and Simulation (3 credits), McGill University, Fall 2018 (27 students), Fall 2019 (24 students)，Winter 2021 (27 students),  Fall 2022 (34 students), Fall 2023 (16 students)
 * Simulation: [Traffic-simulation.de](http://www.traffic-simulation.de/index.html)
 * Book: [Traffic flow theory](https://www.sciencedirect.com/book/9780128041345/traffic-flow-theory)
 * Book: [Traffic flow dynamics](https://link.springer.com/book/10.1007%2F978-3-642-32460-4)
@@ -29,12 +29,12 @@ CIVE 440
 
 CIVE 542
 --------
-* Transportation Network Analysis (3 credits), McGill University, Winter 2023 (30 students)
+* Transportation Network Analysis (3 credits), McGill University, Winter 2023 (28 students)
 * Book: [Transportation Network Analysis](https://sboyles.github.io/blubook.html)
 * Book: [Urban Transportation Networks](http://web.mit.edu/sheffi/www/selectedMedia/sheffi_urban_trans_networks.pdf)
 
 CIVE 650
 --------
-* Spatiotemporal Modeling in Civil Systems (4 credits), McGill University, Fall 2019 (21 students), Fall 2022 (14 students)
+* Spatiotemporal Modeling in Civil Systems (4 credits), McGill University, Fall 2019 (21 students), Fall 2022 (14 students), Fall 2023 (12 students)
 * Topics covered: SVD/PCA, Gaussian processes, Tensor decomposition, Dynamic mode decomposition, Kalman filter, Deep neural networks
 

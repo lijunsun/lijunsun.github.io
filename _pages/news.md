@@ -4,6 +4,17 @@ permalink: /news/
 author_profile: true
 ---
 
+* 09/2023: Paper "Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model" from Xiaoxu and Zhanhong is accepted at Transportation Science. Congrats!
+
+* 08/2023: Dr. Sun will serve as PC member for AAAI 2024.
+
+* 08/2023: Jiawei's paper "Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor" is published at TR-C. [Full paper](https://www.sciencedirect.com/science/article/pii/S0968090X2300298X)
+
+* 07/2023: Jiawei has a very successful defense for his PhD thesis "Multi-agent Deep Reinforcement Learning for Public Transport Vehicle Fleet Control". Congrats, Dr. Wang!
+
+* 07/2023: Paper "Discovering Dynamic Patterns from Spatiotemporal Data with Time-Varying Low-Rank Autoregression" from Xinyu, Chengyuan, and Xiaoxu is published at IEEE TKDE. Congrats! [Full paper](https://ieeexplore.ieee.org/abstract/document/10177995)
+
+* 07/2023: Xudong's paper "Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis" is published at TR-C. [Full paper](https://www.sciencedirect.com/science/article/pii/S0968090X23001675)
 
 * 6/2023: It is such a great pleasure to join [the 2nd Sustainable Urban Mobility: Simulation and Optimization workshop](https://rsvp.withgoogle.com/events/urban-mobility-workshop) organized by Google. Dr. Sun gave a talk on probabilistic modeling of large-scale and high-dimensional spatiotemporal data and Bayesian optimization. The recording can be found [here](https://youtu.be/XGXUDINIPD8?t=13322). 
 
