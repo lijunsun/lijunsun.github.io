@@ -8,8 +8,6 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* [Wenshuo Wang](http://wenshuow.com/) (2021.7-, IVADO Postdoc Fellowship)
-* Mengyi Sha (2021.8-, co-supervised Postdoc Researcher, main supervisor Prof. Wei Qi)
 * [Seongjin Choi](https://benchoi93.github.io/) (2022.1-, co-supervised with Prof. Nicolas Saunier)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2022.8-, )
 
@@ -27,10 +25,11 @@ Current students @ McGill University.
 * [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
 * [Qiujia Liu] (2022.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
 * [Jiarui Xie] (2022.9-, co-supervised with with Prof. Fiona Zhao)
+* [Xiting Zhang] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEITA)
+* [Xinghang Zhu] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
 
 ## Master Students
-* Imed Essid (2021.8-, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
-* Julien Lanthier (2022.9-, co-supervised Msc at HEC Montreal, main supervisor Prof. Aurelie Labbe)
+* [Alicia Qiao] (2023.9-,MEUSMA)
 
 ## Undergraduate Students
 * Michael Cimino (2022, Summer/SURE/Fall)
@@ -39,6 +38,10 @@ Current students @ McGill University.
 
 
 ## Alumni
+* Imed Essid (2021.8-2023.8, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
+* Julien Lanthier (2022.9-2023.8, co-supervised Msc at HEC Montreal, main supervisor Prof. Aurelie Labbe, Now: PhD @ HEC)
+* [Wenshuo Wang](https://wenshuowang.github.io/) (2021.7-2023.8, IVADO Postdoc Fellowship, Now: Professor @)
+* Mengyi Sha (2021.8-2022.8, co-supervised Postdoc Researcher, main supervisor Prof. Wei Qi)
 * [Jiawei Wang](https://wangjw6.github.io/) (2019.9-2023.9, CIRRELT PhD Scholarship, Now: Postdoc @ UTokyo)
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl, Now: Postdoc @ McGill)

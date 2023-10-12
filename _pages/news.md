@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 10/2023: Dr. Sun is appointed as an Associate Editor for [Transportation Science](https://pubsonline.informs.org/journal/trsc).
+
 * 09/2023: Paper "Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model" from Xiaoxu and Zhanhong is accepted at Transportation Science. Congrats!
 
 * 08/2023: Dr. Sun will serve as PC member for AAAI 2024.
