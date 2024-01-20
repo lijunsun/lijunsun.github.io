@@ -4,9 +4,30 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* 1/2024: [Better Batch paper](https://arxiv.org/abs/2305.17028) is accepted to AISTATS 2024. BIG Congratulations to Zhihao and Seongjin. See you in Valencia!
+
+* 1/2024: Our team has clinched three awards (out of four) in the [Clifford Spiegelman Student Paper Competition](https://community.amstat.org/tsig/events/papercompetition) held by the Transportation Statistics Interest Group (TSIG) of American Statistical Association (ASA). Mengying won the 1st place with the BKTR paper, Kehua (visiting PhD from HKUST) won the 2nd place with probabilistic lane-changing models, and Chengyuan won Honorable mention with his paper on Bayesian calibration and stohastic simulation of car-following models. Congratulations to Mengying, Kehua, and Chengyuan!
+
+* 1/2024: Mengying and Xudong both have successfully defended their phd. Congratulations, Dr. Lei and Dr. Wang.
+
+* 1/2024: Chengyuan's paper ["Bayesian Calibration of the Intelligent Driver Model"](https://arxiv.org/abs/2210.03571) is published at IEEE Transactions on ITS. [Full paper](https://dx.doi.org/10.1109/TITS.2024.3354102)
+
+* 1/2024: Paper ["Pavement distress detection using convolutional neural network (CNN): A case study in Montreal, Canada"](https://www.sciencedirect.com/science/article/pii/S2046043021000307) received the Most Cited Paper Award from IJTST!
+
+* 1/2024: The Smart Transportation lab at McGill University will be actively participating in the upcoming TRB 2024. Please join us in the lectern and poster sessions!
+
+* 12/2023: Congratulations to Qiujia on winning the CIRRELT PhD Scholarship!
+
+* 12/2023: Xinyu successfully passed his PhD research defense with thesis "Matrix and Tensor Models for Spatiotemporal Traffic Data Imputation and Forecasting". Congratulations, Dr. Chen!
+
+* 12/2023: Dr. Sun will serve as a PC member for IJCAI 2024.
+
+* 12/2023: Dr. Sun visited ETH Zurich and attended the [NSL Colloquium: Transport Planning – Where do we go now?](https://www.nsl.ethz.ch/transport-planning/).
+
 * 10/2023: Dr. Sun is appointed as an Associate Editor for [Transportation Science](https://pubsonline.informs.org/journal/trsc).
 
-* 09/2023: Paper "Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model" from Xiaoxu and Zhanhong is accepted at Transportation Science. Congrats!
+* 09/2023: Paper "Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model" from Xiaoxu and Zhanhong is accepted at Transportation Science. Congrats! [Full paper](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.0214)
 
 * 08/2023: Dr. Sun will serve as PC member for AAAI 2024.
 
