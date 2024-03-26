@@ -4,6 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* 3/2024: Mengying's paper ['Scalable Spatiotemporally Varying Coefficient Modeling with Bayesian Kernelized Tensor Regression'](https://arxiv.org/abs/2109.00046) is accepted at [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis). Congratulations!
+
+* 3/2024: Chengyuan's paper ["Calibrating Car-Following Models via Bayesian Dynamic Regression"](https://arxiv.org/abs/2307.03340) is accepted at [ISTTT25](https://limos.engin.umich.edu/isttt25/). See you in Ann Arbor!
 
 * 1/2024: [Better Batch paper](https://arxiv.org/abs/2305.17028) is accepted to AISTATS 2024. BIG Congratulations to Zhihao and Seongjin. See you in Valencia!
 
