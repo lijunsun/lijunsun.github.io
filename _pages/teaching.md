@@ -29,7 +29,7 @@ CIVE 440
 
 CIVE 542
 --------
-* Transportation Network Analysis (3 credits), McGill University, Winter 2023 (28 students)
+* Transportation Network Analysis (3 credits), McGill University, Winter 2023 (28 students), Winter 2024 (7 students)
 * Book: [Transportation Network Analysis](https://sboyles.github.io/blubook.html)
 * Book: [Urban Transportation Networks](http://web.mit.edu/sheffi/www/selectedMedia/sheffi_urban_trans_networks.pdf)
 
