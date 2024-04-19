@@ -33,3 +33,6 @@ Professional Service
 * Associate Editor, [Transportation Science](https://pubsonline.informs.org/journal/trsc)
 * Editorial Board Member, [Journal of Public Transportation](https://www.sciencedirect.com/journal/journal-of-public-transportation)
 * Board of Directors, [Chinese Overseas Transportation Association](http://www.cota-home.org/)
+* Regular Member, [CIRRELT](https://cirrelt.ca/)
+* Regular Member, [Statistics Laboratory, CRM](https://www.crm.umontreal.ca/labo/stat/)
+* Associate Member, [Centre for Intelligent Machines](https://www.mcgill.ca/cim/) 
