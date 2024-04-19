@@ -27,7 +27,7 @@ Work Experience
 * 2011.8-2015.1: PhD Researcher, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
 
 
-Professional Service
+Professional Service & Affiliation
 =====
 * Associate Editor, [Transportation Research Part C](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
 * Associate Editor, [Transportation Science](https://pubsonline.informs.org/journal/trsc)
