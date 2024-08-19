@@ -8,14 +8,14 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* [Zhanhong Cheng](https://chengzhanhong.github.io/) (2022.8-, )
+* Yang Zhao (2024.8-, CSC)
+* Xiaoxu Chen (2024.9-, Mitacs Elevate)
 * [Xudong Wang](https://martina1024.github.io/) (2024.1-)  
-* [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-)
+* [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-, CANSSI project)
 
 ## PhD Students
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
 * Fuqiang Liu (2019.9-, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
-* Xiaoxu Chen (2020.9-, CSC, MEDA International)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA, FRQNT B2X Scholarship)
 * [Jiarui Xie]() (2022.9-, co-supervised with Prof. Fiona Zhao, MEDA)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
@@ -25,6 +25,7 @@ Current students @ McGill University.
 * [Jiarui Xie] (2022.9-, co-supervised with with Prof. Fiona Zhao)
 * [Xiting Zhang] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEITA)
 * [Xinghang Zhu] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
+* [Menglin Kong] (2024.9-, MEITA)
 
 ## Master Students
 * [Alicia Qiao] (2023.9-,MEUSMA)
@@ -34,10 +35,12 @@ Current students @ McGill University.
 
 
 ## Alumni
+* Xiaoxu Chen (2020.9-2024.7, PhD, CSC, MEDA International)
+* [Zhanhong Cheng](https://chengzhanhong.github.io/) (2022.8-2024.8, Postdoc, Now: Research Scientist at Univeristy of Florida)
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2019.9-2024.1, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
-* [Xudong Wang](https://martina1024.github.io/) (2018.9-2024.1, MEDA, FRQNT B2X Scholarship)  
+* [Xudong Wang](https://martina1024.github.io/) (2018.9-2024.1, PhD, MEDA, FRQNT B2X Scholarship)  
 * [Seongjin Choi](https://benchoi93.github.io/) (2022.1-2023.12, co-supervised with Prof. Nicolas Saunier, Now: Assistant Professor @ University of Minnesota)
-* [Xinyu Chen](https://transdim.github.io/) (2020.9-2023.12, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
+* [Xinyu Chen](https://transdim.github.io/) (2020.9-2023.12, PhD, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Imed Essid (2021.8-2023.8, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 * Julien Lanthier (2022.9-2023.8, co-supervised Msc at HEC Montreal, main supervisor Prof. Aurelie Labbe, Now: PhD @ HEC)
 * [Wenshuo Wang](https://wenshuowang.github.io/) (2021.7-2023.8, IVADO Postdoc Fellowship, Now: Professor @ Beijing Institute of Technology)
@@ -46,7 +49,6 @@ Current students @ McGill University.
 * Annie Chang (2018.9-2023.5 co-supervised with Prof. Luis Miranda-Moreno)
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl, Now: Postdoc @ McGill)
-
 * Mojdeh Sharafi (2019.9-2021.8, Master student co-supervised with Prof. Laxmi Sushama)
 * Tianyu Shi (2020.1-2021.8, Master student co-supervised with Prof. Luis Miranda-Moreno, GEF, IVADO Msc, Now: PhD @ UofT)
 * Shirwa Mahdi (2020.1-2021.6, Master student co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
@@ -55,7 +57,6 @@ Current students @ McGill University.
 * Zhenyuan Ma (2019.1-2020.12, Master student, Now: Research Engineer @ State Grid Corporation of China)
 * Ce Zhang (2018.9-2020.12, Master student co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ Waterloo)
 * Leila Hawa (2019.1-2020.6, Master student, Now: Solution Engineer @ Optibus)
-
 * Yiyi Guo (2022 Fall, Undergraduate research)
 * Kevin Hou (2022 Winter/Summer, Undergraduate research)
 * Michael Cimino (2022 Summer/SURE/Fall, Undergraduate research)
