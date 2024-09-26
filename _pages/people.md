@@ -22,7 +22,6 @@ Current students @ McGill University.
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
 * [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
 * [Qiujia Liu] (2022.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
-* [Jiarui Xie] (2022.9-, co-supervised with with Prof. Fiona Zhao)
 * [Xiting Zhang] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEITA)
 * [Xinghang Zhu] (2023.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
 * [Menglin Kong] (2024.9-, MEITA)
