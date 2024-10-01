@@ -37,9 +37,10 @@ Current students @ McGill University.
 ## Alumni
 * Xiaoxu Chen (2020.9-2024.7, PhD, CSC, MEDA International)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2022.8-2024.8, Postdoc, Now: Research Scientist at Univeristy of Florida)
+* [Cansu Alakus](https://scholar.google.com.tr/citations?user=9XmcxlUAAAAJ&hl=en)(2023.1-2024.5, Postdoc, co-supervised with Prof. Luis Miranda-Moreno, Now: Data Scientist, Manulife)
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2019.9-2024.1, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-2024.1, PhD, MEDA, FRQNT B2X Scholarship)  
-* [Seongjin Choi](https://benchoi93.github.io/) (2022.1-2023.12, co-supervised with Prof. Nicolas Saunier, Now: Assistant Professor @ University of Minnesota)
+* [Seongjin Choi](https://benchoi93.github.io/) (2022.1-2023.12, Postdoc, co-supervised with Prof. Nicolas Saunier, Now: Assistant Professor @ University of Minnesota)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-2023.12, PhD, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Imed Essid (2021.8-2023.8, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 * Julien Lanthier (2022.9-2023.8, co-supervised Msc at HEC Montreal, main supervisor Prof. Aurelie Labbe, Now: PhD @ HEC)
