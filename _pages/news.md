@@ -4,17 +4,24 @@ permalink: /news/
 author_profile: true
 ---
 
-* 1/2025. We (Francesco Ciari, Luis Miranda-Moreno, Carolina Osorio, Nicolas Saunier, Lijun Sun) will be hosting the [ISTDM](https://symposia.cirrelt.ca/ISTDM2025/en/Submission) 2025 Conference in Montreal, from September 3 to 5, 2025. 
+* 1/2025: We (Francesco Ciari, Luis Miranda-Moreno, Carolina Osorio, Nicolas Saunier, Lijun Sun) will be hosting the [ISTDM](https://symposia.cirrelt.ca/ISTDM2025/en/Submission) 2025 Conference in Montreal, from September 3 to 5, 2025. 
 
-* 1/2025. Our team presented 6 papers at the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/schedule).
+* 1/2025: Our team presented 6 papers at the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/schedule).
 
-* 12/2024. Xiaoxu's paper ["Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression"](https://www.sciencedirect.com/science/article/pii/S0191261524002716) is accepted at Transportation Research Part B. Congratulations!
+* 1/2025: Chengyuan got the [CIRRELT PhD Scholarship](https://cirrelt.ca/cirrelt/images/file/2024/2024-2025-recipiendaires.pdf). Congratulations!
 
-* 12/2024. Our BIRS workshop proposal "Emerging challenges in statistical modeling for transportation research" is accepted. We will be organizing the workshop at the [Banff International Research Station](https://www.birs.ca/) during June 28 to July 3, 2026. Stay tuned!
+* 12/2024: Xiaoxu's paper ["Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression"](https://www.sciencedirect.com/science/article/pii/S0191261524002716) is accepted at Transportation Research Part B. Congratulations!
 
-* 12/2024. Zhihao got a Mitacs grant to work with [ServiceNow Research](https://www.servicenow.com/research/) on foundation models for time series forecasting.
+* 12/2024: Our BIRS workshop proposal "Emerging challenges in statistical modeling for transportation research" is accepted. We will be organizing the workshop at the [Banff International Research Station](https://www.birs.ca/) during June 28 to July 3, 2026. Stay tuned!
+
+
+* 12/2024: Zhihao got a Mitacs grant to work with [ServiceNow Research](https://www.servicenow.com/research/) on foundation models for time series forecasting.
+
+* 9/2024: Dr. Sun is among the list of [Stanford/Elsevier's Top 2% Scientists].
 
 * 9/2024: Zhihao's paper ["Multivariate Probabilistic Time Series Forecasting with Correlated Errors"](https://openreview.net/forum?id=cAFvxVFaii) is accepted at Neurips 2024.
+
+* 7/2024: Congratulations to Dr. Xiaoxu Chen on passing his PhD defense! Xiaoxu will stay in our group as a postdoc. 
 
 * 3/2024: Mengying's paper ['Scalable Spatiotemporally Varying Coefficient Modeling with Bayesian Kernelized Tensor Regression'](https://arxiv.org/abs/2109.00046) is accepted at [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis). Congratulations!
 
