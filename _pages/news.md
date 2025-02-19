@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2/2025: We released the python code for ["Generalized Least Squares Tensor Factorization"](https://arxiv.org/abs/2412.07041). The implementation is very fast using the conjugate gradient method and Kronecker matrix vector multiplication, together with slicing and zero-padding operations. Please see a demo on Github at [this link](https://github.com/MengyingLei/GLSKF).
+
 * 2/2025: Paper ["Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting"](https://arxiv.org/abs/2412.08099) from Fuqiang and Sicong is accepted at AISTATS 2025.
 
 * 1/2025: We (Francesco Ciari, Luis Miranda-Moreno, Carolina Osorio, Nicolas Saunier, Lijun Sun) will be hosting the [ISTDM](https://symposia.cirrelt.ca/ISTDM2025/en/Submission) 2025 Conference in Montreal, from September 3 to 5, 2025. 
