@@ -47,6 +47,7 @@ Software
 
 Online courses
 ========
+* [Matrix Calculus](https://github.com/mitmath/matrixcalc)
 * [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 * [Probabilistic Graphical Models](http://people.eecs.berkeley.edu/~jordan/prelims/)
 * [Princeton](http://www.princeton.edu/~yc5/ele538b_sparsity/index.html)
