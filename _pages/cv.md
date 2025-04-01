@@ -29,6 +29,7 @@ Work Experience
 
 Professional Service & Affiliation
 =====
+* Managing Editor, [Artificial Intelligence for Transportation](https://www.sciencedirect.com/journal/artificial-intelligence-for-transportation)
 * Associate Editor, [Transportation Research Part C](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
 * Associate Editor, [Transportation Science](https://pubsonline.informs.org/journal/trsc)
 * Editorial Board Member, [Journal of Public Transportation](https://www.sciencedirect.com/journal/journal-of-public-transportation)
