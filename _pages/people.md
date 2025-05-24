@@ -12,7 +12,7 @@ Current students @ McGill University.
 * Jian Zhang (2025.1-, CSC)
 * Yang Zhao (2024.8-, CSC)
 * Xiaoxu Chen (2024.9-, Mitacs Elevate)
-* [Xudong Wang](https://martina1024.github.io/) (2024.1-)  
+* [Xudong Wang](https://martina1024.github.io/) (2024.1-, co-supervised with Prof. Luis Miranda-Moreno)  
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-, CANSSI project)
 
 ## PhD Students
@@ -30,7 +30,8 @@ Current students @ McGill University.
 * [Yihong Tang](https://yihongt.github.io/) (2025.1-, MEITA)
 
 ## Master Students
-* [Alicia Qiao] (2023.9-,MEUSMA)
+* Lorraine Cui (2025.5-, co-supervised with Prof. Alex Schmidt)
+* [Alicia Qiao] (2023.9-, MEUSMA)
 
 ## Undergraduate Students
 
