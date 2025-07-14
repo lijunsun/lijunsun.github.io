@@ -17,7 +17,6 @@ Current students @ McGill University.
 
 ## PhD Students
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
-* Fuqiang Liu (2019.9-, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA, FRQNT B2X Scholarship)
 * [Jiarui Xie]() (2022.9-, co-supervised with Prof. Fiona Zhao, MEDA)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
@@ -38,6 +37,7 @@ Current students @ McGill University.
 
 
 ## Alumni
+* Fuqiang Liu (2019.9-2025.7, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * Xiaoxu Chen (2020.9-2024.7, PhD, CSC, MEDA International)
 * [Zhanhong Cheng](https://chengzhanhong.github.io/) (2022.8-2024.8, Postdoc, Now: Research Scientist at Univeristy of Florida)
 * [Cansu Alakus](https://scholar.google.com.tr/citations?user=9XmcxlUAAAAJ&hl=en)(2023.1-2024.5, Postdoc, co-supervised with Prof. Luis Miranda-Moreno, Now: Data Scientist, Manulife)
