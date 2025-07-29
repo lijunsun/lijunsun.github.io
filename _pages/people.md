@@ -74,5 +74,6 @@ Current students @ McGill University.
 * Chen Xu, BUPT (2023.10-)
 * Sohyeong Kim, EPFL (2023.6-2023.10)
 * Jian Yuan, Tongji University (2022.6-2023.6)
+* Xian Chen, Tsinghua University (2022.3-2022.9)
 * Kangli Zhu, Beijing Jiaotong University (2019.1-2019.12)
 * Yiting Zhu, Sun Yat-sen University (2019.8-2019.12)
