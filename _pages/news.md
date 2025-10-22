@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 10/2025：Zhihao has successfully defended their phd. Congratulations, Dr. Zheng!
 
 * 2/2025: We released the python code for ["Generalized Least Squares Tensor Factorization"](https://arxiv.org/abs/2412.07041). The implementation is very fast using the conjugate gradient method and Kronecker matrix vector multiplication, together with slicing and zero-padding operations. Please see a demo on Github at [this link](https://github.com/MengyingLei/GLSKF).
 

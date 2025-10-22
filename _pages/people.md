@@ -16,7 +16,6 @@ Current students @ McGill University.
 
 ## PhD Students
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
-* [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA, FRQNT B2X Scholarship)
 * [Jiarui Xie] (2022.9-, co-supervised with Prof. Fiona Zhao, MEDA)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
@@ -27,19 +26,22 @@ Current students @ McGill University.
 * [Menglin Kong](https://scholar.google.com/citations?user=6_TaTiUAAAAJ) (2024.9-, MEITA)
 * [Yihong Tang](https://yihongt.github.io/) (2025.1-, MEITA)
 * [Bowen Li] (2025.9-, MEITA)
+* [Alicia Qiao](2026.1-, MEITA)
 
 ## Master Students
 * Lorraine Cui (2025.5-, co-supervised with Prof. Alex Schmidt)
-* [Alicia Qiao] (2023.9-, MEUSMA)
+
 
 ## Undergraduate Students
 
 
 
 ## Alumni
-* Fuqiang Liu (2019.9-2025.7, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
+* [Alicia Qiao] (2023.9-2025.12, Master's student, MEUSMA)
+* [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-2025.12, PhD, MEDA, FRQNT B2X Scholarship)
+* Fuqiang Liu (2019.9-2025.7, PhD, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * Xiaoxu Chen (2020.9-2024.7, PhD, CSC, MEDA International; 2024.8-2025.9, Postdoc; Now: Postdoctoral Associate @ HEC Montreal)
-* [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl; 2022.8-2024.8, Postdoc; Now: Research Scientist @ Univeristy of Florida)
+* [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-2022.8, PhD, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl; 2022.8-2024.8, Postdoc; Now: Research Scientist @ Univeristy of Florida)
 * [Cansu Alakus](https://scholar.google.com.tr/citations?user=9XmcxlUAAAAJ&hl=en) (2023.1-2024.5, Postdoc, co-supervised with Prof. Luis Miranda-Moreno; Now: Data Scientist @ Manulife)
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2019.9-2024.1, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal; Now: Postdoctoral Associate @ McGill)
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-2024.1, PhD, MEDA, FRQNT B2X Scholarship; Now: Postdoctoral Associate @ McGill)  
@@ -52,14 +54,14 @@ Current students @ McGill University.
 * [Jiawei Wang](https://wangjw6.github.io/) (2019.9-2023.9, CIRRELT PhD Scholarship; Now: Postdoc @ UTokyo)
 * Annie Chang (2018.9-2023.5 co-supervised with Prof. Luis Miranda-Moreno)
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-2022.2, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship, Now: Professor @ Sichuan University)
-* Mojdeh Sharafi (2019.9-2021.8, Master student co-supervised with Prof. Laxmi Sushama)
-* Tianyu Shi (2020.1-2021.8, Master student co-supervised with Prof. Luis Miranda-Moreno, GEF, IVADO Msc; Now: PhD @ UofT)
-* Shirwa Mahdi (2020.1-2021.6, Master student co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
+* Mojdeh Sharafi (2019.9-2021.8, Master's student co-supervised with Prof. Laxmi Sushama)
+* Tianyu Shi (2020.1-2021.8, Master's student co-supervised with Prof. Luis Miranda-Moreno, GEF, IVADO Msc; Now: PhD @ UofT)
+* Shirwa Mahdi (2020.1-2021.6, Master's student co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-2021.6, Master student, GEF, CIRRELT Master Scholarship; Now: PhD @ MIT)
-* Lulu Tan (2019.9-2020.12, Master student co-supervised with Prof. Luis Miranda-Moreno; Now: Machine Learning Engineer @ Unity Technology)
-* Zhenyuan Ma (2019.1-2020.12, Master student; Now: Research Engineer @ State Grid Corporation of China)
-* Ce Zhang (2018.9-2020.12, Master student co-supervised with Prof. Luis Miranda-Moreno; Now: PhD @ Waterloo)
-* Leila Hawa (2019.1-2020.6, Master student; Now: Solution Engineer @ Optibus)
+* Lulu Tan (2019.9-2020.12, Master's student co-supervised with Prof. Luis Miranda-Moreno; Now: Machine Learning Engineer @ Unity Technology)
+* Zhenyuan Ma (2019.1-2020.12, Master's student; Now: Research Engineer @ State Grid Corporation of China)
+* Ce Zhang (2018.9-2020.12, Master's student co-supervised with Prof. Luis Miranda-Moreno; Now: PhD @ Waterloo)
+* Leila Hawa (2019.1-2020.6, Master's student; Now: Solution Engineer @ Optibus)
 * Yiyi Guo (2022 Fall, Undergraduate research)
 * Kevin Hou (2022 Winter/Summer, Undergraduate research)
 * Michael Cimino (2022 Summer/SURE/Fall, Undergraduate research)
