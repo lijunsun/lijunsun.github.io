@@ -32,6 +32,8 @@ Professional Service & Affiliation
 * Managing Editor, [Artificial Intelligence for Transportation](https://www.sciencedirect.com/journal/artificial-intelligence-for-transportation)
 * Associate Editor, [Transportation Research Part C](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
 * Associate Editor, [Transportation Science](https://pubsonline.informs.org/journal/trsc)
+* Associate Editor, [Data Science in Science](https://www.tandfonline.com/journals/udss20)
+* Associate Editor, [Automative Innovation](https://link.springer.com/journal/42154)
 * Editorial Board Member, [Journal of Public Transportation](https://www.sciencedirect.com/journal/journal-of-public-transportation)
 * Board of Directors, [Chinese Overseas Transportation Association](http://www.cota-home.org/)
 * Regular Member, [CIRRELT](https://cirrelt.ca/)
