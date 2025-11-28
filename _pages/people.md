@@ -8,15 +8,11 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* Qi Cao (2025.3-, )
 * Jian Zhang (2025.1-, CSC)
 * Yang Zhao (2024.8-, CSC)
-* [Xudong Wang](https://martina1024.github.io/) (2024.1-, co-supervised with Prof. Luis Miranda-Moreno)  
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-, CANSSI project)
 
 ## PhD Students
-* [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
-* [Jiarui Xie]() (2022.9-, co-supervised with Prof. Fiona Zhao, MEDA)
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc, MEDA, FRQNT B1X Scholarship)
 * [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
@@ -37,6 +33,8 @@ Current students @ McGill University.
 
 
 ## Alumni
+* [Jiarui Xie]() (2022.9-2026.3, co-supervised with Prof. Fiona Zhao, MEDA)
+* [Xudong Wang](https://martina1024.github.io/) (2024.1-2025.12, co-supervised with Prof. Luis Miranda-Moreno)  
 * [Alicia Qiao]() (2023.9-2025.12, Master's student, MEUSMA)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-2025.12, PhD, MEDA, FRQNT B2X Scholarship)
 * [Fuqiang Liu](https://fuqliu.github.io/) (2019.9-2025.7, PhD, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
