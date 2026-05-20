@@ -8,6 +8,7 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
+* Yu Tang (2026.3-)
 * Jian Zhang (2025.1-, CSC)
 * Yang Zhao (2024.8-, CSC)
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-, CANSSI project)
