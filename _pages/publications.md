@@ -14,85 +14,109 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-The list is not frequently updated. You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+This list highlights representative work by research theme and is not frequently updated (last update: October 2026). A complete list is available on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ). Names of students and postdocs I supervised are marked with an asterisk (*).
 
 
 
-Recent Representative Publication by Research Themes
+Representative Publications by Research Theme
 =====
 
 
 
-Inverse problems in Transportation (Statistical modeling)
+Inverse problems in transportation: inferring what cannot be observed
 -----
-* Chen, Xiaoxu, Zhanhong Cheng, and Lijun Sun. ["Bayesian Inference of Time-Varying Origin-Destination Matrices from Boarding/Alighting Counts for Transit Services."](https://arxiv.org/abs/2403.04742) arXiv preprint arXiv:2403.04742 (2024).
+* Chen, Xiaoxu*, Zhanhong Cheng*, and Lijun Sun. ["Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services."](https://doi.org/10.1016/j.trb.2025.103278) Transportation Research Part B: Methodological 199 (2025): 103278.
+* Chen, Xiaoxu*, Yafeng Yin, and Lijun Sun. ["Inductive transportation origin-destination demand forecasting via Bayesian destination-choice modeling."](https://doi.org/10.1287/trsc.2026.0063) Transportation Science (2026), in press.
+* Chen, Xiaoxu*, Alexandra M. Schmidt, Zhenliang Ma, and Lijun Sun. ["Bayesian spatiotemporal modeling of passenger trip assignment in metro networks."](https://arxiv.org/abs/2507.22403) arXiv preprint arXiv:2507.22403 (2025).
+* Chen, Xiaoxu*, M.-O. Thibault, Martin Trépanier, and Lijun Sun. ["Statistical inference of boarding and alighting counts in transit systems with incomplete data."](https://doi.org/10.1016/j.trc.2025.105484) Transportation Research Part C: Emerging Technologies 183 (2026): 105484.
+* Zhu, Xing-hang*, Zhanhong Cheng*, Luis Miranda-Moreno, and Lijun Sun. ["ProST-CP: Probabilistic spatiotemporal CP decomposition for shared micro-mobility origin-destination demand modeling."](https://doi.org/10.1016/j.trc.2026.105874) Transportation Research Part C: Emerging Technologies 192 (2026): 105874.
+* Zhang, Xiting*, Xudong Wang*, Lijun Sun, and Luis Miranda-Moreno. ["Reconstruction of OD demand using mobile phone data: A regression model with spatially varying coefficients."](https://doi.org/10.1016/j.jtrangeo.2026.104677) Journal of Transport Geography 134 (2026): 104677.
+* Sun, Lijun, Yang Lu, Jian Gang Jin, Der-Horng Lee, and Kay W. Axhausen. ["An integrated Bayesian approach for passenger flow assignment in metro networks."](https://doi.org/10.1016/j.trc.2015.01.001) Transportation Research Part C: Emerging Technologies 52 (2015): 116–131.
 
-Spatiotemporal modeling (Bayesian statistics)
+
+Bayesian spatiotemporal modeling: kernelized tensor models and Gaussian processes
 -----
-* Lei, Mengying, Aurelie Labbe, and Lijun Sun. ["Bayesian Complementary Kernelized Learning for Multidimensional Spatiotemporal Data."](https://arxiv.org/abs/2208.09978) arXiv preprint arXiv:2208.09978 (2022).
-* Lei, Mengying, Aurelie Labbe, Yuankai Wu, and Lijun Sun. ["Bayesian kernelized matrix factorization for spatiotemporal traffic data imputation and kriging."](https://ieeexplore.ieee.org/abstract/document/9745749) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 18962-18974.
-* Lei, Mengying, Aurelie Labbe, and Lijun Sun. ["Scalable Spatiotemporally Varying Coefficient Modelling with Bayesian Kernelized Tensor Regression."](https://arxiv.org/abs/2109.00046) Bayesian Analysis (2023) arXiv preprint arXiv:2109.00046.
-* Chen, Xinyu, and Lijun Sun. ["Bayesian temporal factorization for multidimensional time series prediction."](https://ieeexplore.ieee.org/abstract/document/9380704) IEEE Transactions on Pattern Analysis and Machine Intelligence 44, no. 9 (2021): 4659-4673.
-* Chen, Xinyu, Zhaocheng He, and Lijun Sun. ["A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation."](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X) Transportation research part C: emerging technologies 98 (2019): 73-84.
-* Wu, Fan, Zhanhong Cheng, Huiyu Chen, Tony Z. Qiu, and Lijun Sun. ["Traffic State Estimation with Anisotropic Gaussian Processes from Vehicle Trajectories."](https://arxiv.org/abs/2303.02311) arXiv preprint arXiv:2303.02311 (2023).
+* Lei, Mengying*, Aurelie Labbe, and Lijun Sun. ["Scalable spatiotemporally varying coefficient modeling with Bayesian kernelized tensor regression."](https://doi.org/10.1214/24-BA1428) Bayesian Analysis 20, no. 3 (2025): 919–947.
+* Lei, Mengying*, and Lijun Sun. ["Generalized least squares kernelized tensor factorization."](https://doi.org/10.1016/j.patcog.2026.114342) Pattern Recognition 180 (2026): 114342.
+* Lei, Mengying*, Aurelie Labbe, and Lijun Sun. ["Bayesian complementary kernelized learning for multidimensional spatiotemporal data."](https://arxiv.org/abs/2208.09978) arXiv preprint arXiv:2208.09978 (2022).
+* Lei, Mengying*, Aurelie Labbe, Yuankai Wu*, and Lijun Sun. ["Bayesian kernelized matrix factorization for spatiotemporal traffic data imputation and kriging."](https://doi.org/10.1109/TITS.2022.3161792) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 18962–18974.
+* Chen, Xinyu*, and Lijun Sun. ["Bayesian temporal factorization for multidimensional time series prediction."](https://doi.org/10.1109/TPAMI.2021.3066551) IEEE Transactions on Pattern Analysis and Machine Intelligence 44, no. 9 (2022): 4659–4673.
+* Wu, Fan, Zhanhong Cheng*, Huiyu Chen, Tony Z. Qiu, and Lijun Sun. ["Traffic state estimation with anisotropic Gaussian processes from vehicle trajectories."](https://doi.org/10.1016/j.trc.2024.104646) Transportation Research Part C: Emerging Technologies 163 (2024): 104646.
+* Lei, Mengying*, and Lijun Sun. ["Low-rank tensor learning for spatiotemporal traffic and mobility data: A survey."](https://doi.org/10.1016/j.ait.2025.100035) Artificial Intelligence for Transportation 3–4 (2025): 100035.
 
 
-Spatiotemporal modeling (deep learning)
+Low-rank models, tensor completion and dynamic modes
 -----
-* Liang, Yuebing, Zhan Zhao, and Lijun Sun. ["Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns."](https://www.sciencedirect.com/science/article/pii/S0968090X22002479) Transportation Research Part C: Emerging Technologies 143 (2022): 103826.
-* Wu, Yuankai, Dingyi Zhuang, Mengying Lei, Aurelie Labbe, and Lijun Sun. ["Spatial Aggregation and Temporal Convolution Networks for Real-time Kriging."](https://arxiv.org/abs/2109.12144) arXiv preprint arXiv:2109.12144 (2021).
-* Wu, Yuankai, Dingyi Zhuang, Aurelie Labbe, and Lijun Sun. ["Inductive graph neural networks for spatiotemporal kriging."](https://ojs.aaai.org/index.php/AAAI/article/view/16575) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 5, pp. 4478-4485. 2021.
-* Wu, Yuankai, Zhanhong Cheng, and Lijun Sun. ["Individual Mobility Prediction via Attentive Marked Temporal Point Processes."](https://arxiv.org/abs/2109.02715) arXiv preprint arXiv:2109.02715 (2021).
+* Chen, Xinyu*, Chengyuan Zhang*, Xi-Le Zhao, Nicolas Saunier, and Lijun Sun. ["Forecasting sparse movement speed of urban road networks with nonstationary temporal matrix factorization."](https://doi.org/10.1287/trsc.2024.0629) Transportation Science 59, no. 3 (2025): 670–687.
+* Chen, Xinyu*, Zhanhong Cheng*, HanQin Cai, Nicolas Saunier, and Lijun Sun. ["Laplacian convolutional representation for traffic time series imputation."](https://doi.org/10.1109/TKDE.2024.3419698) IEEE Transactions on Knowledge and Data Engineering 36, no. 11 (2024): 6490–6502.
+* Chen, Xinyu*, Chengyuan Zhang*, Xiaoxu Chen*, Nicolas Saunier, and Lijun Sun. ["Discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression."](https://doi.org/10.1109/TKDE.2023.3294440) IEEE Transactions on Knowledge and Data Engineering 36, no. 2 (2023): 504–517.
+* Wang, Xudong*, H. Shu, Luis Miranda-Moreno, and Lijun Sun. ["Robust matrix completion for spatiotemporal traffic data in time-frequency domain."](https://doi.org/10.1109/TITS.2026.3651974) IEEE Transactions on Intelligent Transportation Systems (2026).
+* Wang, Xudong*, and Lijun Sun. ["Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis."](https://doi.org/10.1016/j.trc.2023.104178) Transportation Research Part C: Emerging Technologies 153 (2023): 104178.
+* Wang, Xudong*, Yuankai Wu*, Dingyi Zhuang*, and Lijun Sun. ["Low-rank Hankel tensor completion for traffic speed estimation."](https://doi.org/10.1109/TITS.2023.3247961) IEEE Transactions on Intelligent Transportation Systems 24, no. 5 (2023): 4862–4871.
+* Cheng, Zhanhong*, Martin Trépanier, and Lijun Sun. ["Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition."](https://doi.org/10.1287/trsc.2022.1128) Transportation Science 56, no. 4 (2022): 904–918.
 
-Spatiotemporal modeling (low-rank models, tensor completion, DMD)
+
+Probabilistic forecasting with correlated errors
 -----
-* Wang, Xudong, and Lijun Sun. ["Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis."](https://arxiv.org/abs/2302.07108) arXiv preprint arXiv:2302.07108 (2023).
-* Wang, Xudong, et al. ["Low-rank Hankel tensor completion for traffic speed estimation."](https://ieeexplore.ieee.org/abstract/document/10058108) IEEE Transactions on Intelligent Transportation Systems (2023).
-* Chen, Xinyu, Zhanhong Cheng, Nicolas Saunier, and Lijun Sun. ["Laplacian Convolutional Representation for Traffic Time Series Imputation."](https://arxiv.org/abs/2212.01529) arXiv preprint arXiv:2212.01529 (2022).
-* Chen, Xinyu, Chengyuan Zhang, Xiaoxu Chen, Nicolas Saunier, and Lijun Sun. ["Discovering Dynamic Patterns from Spatiotemporal Data with Time-Varying Low-Rank Autoregression."](https://arxiv.org/abs/2211.15482) arXiv preprint arXiv:2211.15482 (2022).
-* Cheng, Zhanhong, Martin Trepanier, and Lijun Sun. ["Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition."](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1128) Transportation science 56, no. 4 (2022): 904-918.
-* Chen, Xinyu, Chengyuan Zhang, Xi-Le Zhao, Nicolas Saunier, and Lijun Sun. ["Nonstationary temporal matrix factorization for multivariate time series forecasting."](https://arxiv.org/abs/2203.10651) arXiv preprint arXiv:2203.10651 (2022).
-* Wang, Xudong, Luis Miranda-Moreno, and Lijun Sun. ["Hankel-structured tensor robust PCA for multivariate traffic time series anomaly detection."](https://arxiv.org/abs/2110.04352) arXiv preprint arXiv:2110.04352 (2021).
-* Chen, Xinyu, Mengying Lei, Nicolas Saunier, and Lijun Sun. ["Low-rank autoregressive tensor completion for spatiotemporal traffic data imputation."](https://ieeexplore.ieee.org/abstract/document/9548664) IEEE Transactions on Intelligent Transportation Systems 23, no. 8 (2021): 12301-12310.
-* Chen, Xinyu, Jinming Yang, and Lijun Sun. ["A nonconvex low-rank tensor completion model for spatiotemporal traffic data imputation."](https://www.sciencedirect.com/science/article/pii/S0968090X2030588X) Transportation Research Part C: Emerging Technologies 117 (2020): 102673.
+* Zheng, Vincent Zhihao*, Seongjin Choi*, and Lijun Sun. ["Probabilistic traffic forecasting with dynamic regression."](https://doi.org/10.1287/trsc.2024.0560) Transportation Science 59, no. 4 (2025): 689–707.
+* Choi, Seongjin*, Nicolas Saunier, Vincent Zhihao Zheng*, Martin Trépanier, and Lijun Sun. ["Scalable dynamic mixture model with full covariance for probabilistic traffic forecasting."](https://doi.org/10.1287/trsc.2024.0547) Transportation Science 59, no. 4 (2025): 708–720.
+* Zheng, Vincent Zhihao*, and Lijun Sun. ["Multivariate probabilistic time series forecasting with correlated errors."](https://arxiv.org/abs/2402.01000) Advances in Neural Information Processing Systems (NeurIPS) (2024).
+* Zheng, Vincent Zhihao*, and Lijun Sun. ["MVG-CRPS: A robust loss function for multivariate probabilistic forecasting."](https://arxiv.org/abs/2410.09133) arXiv preprint arXiv:2410.09133 (2024).
+* Zheng, Vincent Zhihao*, Seongjin Choi*, and Lijun Sun. ["Better batch for deep probabilistic time series forecasting."](https://proceedings.mlr.press/v238/zheng24a.html) Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 238 (2024).
+* Kong, Menglin*, Vincent Zhihao Zheng*, Xudong Wang*, and Lijun Sun. ["Dynamic modes as time representation for spatiotemporal forecasting."](https://arxiv.org/abs/2506.01212) arXiv preprint arXiv:2506.01212 (2025).
+* Kong, Menglin*, Vincent Zhihao Zheng*, and Lijun Sun. ["Frequency-constrained learning for long-term forecasting."](https://arxiv.org/abs/2508.01508) arXiv preprint arXiv:2508.01508 (2025).
+* Xu, Chen*, Qiang Wang, and Lijun Sun. ["Link representation learning for probabilistic travel time estimation."](https://doi.org/10.1109/TITS.2025.3590075) IEEE Transactions on Intelligent Transportation Systems 26, no. 11 (2025): 21149–21161.
 
 
-
-New ideas in deep/statistical/probabilistic time series forecasing
+Public transport demand and operations
 -----
-* Zheng, Vincent Zhihao, and Lijun Sun. ["Multivariate Probabilistic Time Series Forecasting with Correlated Errors."](https://arxiv.org/abs/2402.01000) arXiv preprint arXiv:2402.01000 (2024).
-* Zheng, Vincent Zhihao, Seongjin Choi, and Lijun Sun. ["Better Batch for Deep Probabilistic Time Series Forecasting."](https://arxiv.org/abs/2305.17028) arXiv preprint arXiv:2305.17028 (2023).
-* Zheng, Vincent Zhihao, Seongjin Choi, and Lijun Sun. ["Enhancing Deep Traffic Forecasting Models with Dynamic Regression."](https://arxiv.org/abs/2301.06650) arXiv preprint arXiv:2301.06650 (2023).
-* Choi, Seongjin, Nicolas Saunier, Martin Trepanier, and Lijun Sun. ["Spatiotemporal residual regularization with dynamic mixtures for traffic forecasting."](https://arxiv.org/abs/2212.06653) arXiv preprint arXiv:2212.06653 (2022).
-* Liu, Fuqiang, Jiawei Wang, Jingbo Tian, Dingyi Zhuang, Luis Miranda-Moreno, and Lijun Sun. ["A Universal Framework of Spatiotemporal Bias Block for Long-Term Traffic Forecasting."](https://ieeexplore.ieee.org/abstract/document/9737430) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 19064-19075.
-* Cheng, Zhanhong, Martin Trépanier, and Lijun Sun. ["Incorporating travel behavior regularity into passenger flow forecasting."](https://www.sciencedirect.com/science/article/pii/S0968090X21002151) Transportation Research Part C: Emerging Technologies 128 (2021): 103200. 
+* Chen, Xiaoxu*, Zhanhong Cheng*, Alexandra M. Schmidt, and Lijun Sun. ["Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression."](https://doi.org/10.1016/j.trb.2024.103147) Transportation Research Part B: Methodological 192 (2025): 103147.
+* Chen, Xiaoxu*, Zhanhong Cheng*, Jian Gang Jin, Martin Trépanier, and Lijun Sun. ["Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model."](https://doi.org/10.1287/trsc.2022.0214) Transportation Science 57, no. 6 (2023): 1516–1535.
+* Zhao, Yangyang*, Zhenliang Ma, Xiaoxu Chen*, and Lijun Sun. ["Deep structured Gaussian modeling for real-time probabilistic bus travel time prediction."](https://doi.org/10.1016/j.trc.2026.105617) Transportation Research Part C: Emerging Technologies 186 (2026): 105617.
+* Cheng, Zhanhong*, Jiawei Wang*, Martin Trépanier, and Lijun Sun. ["Abnormal metro passenger demand is predictable from alighting and boarding correlations."](https://doi.org/10.1016/j.trc.2025.105239) Transportation Research Part C: Emerging Technologies 178 (2025): 105239.
+* Cheng, Zhanhong*, V. J. Rodrigues de Sousa, K. Perez Martinez, T. Barbier, and Lijun Sun. ["Railway booking demand forecasting for revenue management: A deep probabilistic approach."](https://doi.org/10.1080/23249935.2025.2563182) Transportmetrica A: Transport Science (2025).
+* Wang, Jiawei*, and Lijun Sun. ["Robust dynamic bus control: A distributional multi-agent reinforcement learning approach."](https://doi.org/10.1109/TITS.2022.3229527) IEEE Transactions on Intelligent Transportation Systems 24, no. 4 (2023): 4075–4088.
+* Wang, Jiawei*, and Lijun Sun. ["Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor."](https://doi.org/10.1016/j.trc.2023.104309) Transportation Research Part C: Emerging Technologies 155 (2023): 104309.
+* Wang, Jiawei*, and Lijun Sun. ["Reducing bus bunching with asynchronous multi-agent reinforcement learning."](https://doi.org/10.24963/ijcai.2021/60) Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI) (2021).
 
-Stohastic traffic simulation, driving behavior, and autonomous driving
+
+Stochastic traffic simulation and driving behavior
 -----
-* Zhang, Chengyuan, Wenshuo Wang, and Lijun Sun. ["Calibrating car-following models via Bayesian dynamic regression."](https://arxiv.org/abs/2307.03340) Transportation Research Part C, ISTTT 25, and arXiv preprint arXiv:2307.03340 (2024).
-* Zhang, Chaopeng, Wenshuo Wang, Zhaokun Chen, Jian Zhang, Lijun Sun, and Junqiang Xi. ["Shareable driving style learning and analysis with a hierarchical latent model."](https://ieeexplore.ieee.org/abstract/document/10478205) IEEE Transactions on Intelligent Transportation Systems (2024).
-* Wang, Wenshuo, Letian Wang, Chengyuan Zhang, Changliu Liu, and Lijun Sun. ["Social interactions for autonomous driving: A review and perspectives."](https://www.nowpublishers.com/article/Details/ROB-078) Foundations and Trends® in Robotics 10, no. 3-4 (2022): 198-376.
-* Wang, Huanjie, Haibin Liu, Wenshuo Wang, and Lijun Sun. ["On Trustworthy Decision-Making Process of Human Drivers from the View of Perceptual Uncertainty Reduction."](https://arxiv.org/abs/2210.08256) IEEE Transactions on Intelligent Transportation Systems, arXiv preprint arXiv:2210.08256 (2022).
-* Zhang, Chengyuan, and Lijun Sun. ["Bayesian Calibration of the Intelligent Driver Model."](https://arxiv.org/abs/2210.03571) IEEE Transactions on Intelligent Transportation Systems, arXiv preprint arXiv:2210.03571 (2022).
-* Wang, Huanjie, Wenshuo Wang, Shihua Yuan, Xueyuan Li, and Lijun Sun. ["On social interactions of merging behaviors at highway on-ramps in congested traffic."](https://ieeexplore.ieee.org/abstract/document/9511791) IEEE Transactions on Intelligent Transportation Systems 23, no. 8 (2021): 11237-11248.
+* Zhang, Chengyuan*, Zhengbing He, Cathy Wu, and Lijun Sun. ["When context is not enough: Modeling unexplained variability in car-following behavior."](https://doi.org/10.1016/j.trb.2026.103588) Transportation Research Part B: Methodological 214 (2026): 103588.
+* Kong, Menglin*, Chengyuan Zhang*, and Lijun Sun. ["Active simulation-based inference for scalable car-following model calibration."](https://arxiv.org/abs/2602.05246) arXiv preprint arXiv:2602.05246 (2026).
+* C. Hickert, M. Samaei, A. Wang, Chengyuan Zhang*, Lijun Sun, Y. Wang, M. Ameli, and Cathy Wu. ["The calibration illusion in traffic microsimulation."](https://arxiv.org/abs/2608.19642) arXiv preprint arXiv:2608.19642 (2026).
+* Zhang, Chengyuan*, Wenshuo Wang*, and Lijun Sun. ["Calibrating car-following models via Bayesian dynamic regression."](https://doi.org/10.1016/j.trc.2024.104719) Transportation Research Part C: Emerging Technologies 168 (2024): 104719.
+* Zhang, Chengyuan*, and Lijun Sun. ["Bayesian calibration of the intelligent driver model."](https://doi.org/10.1109/TITS.2024.3354102) IEEE Transactions on Intelligent Transportation Systems 25, no. 8 (2024): 9308–9320.
+* Chen, Xiaoxu*, Chengyuan Zhang*, Zhanhong Cheng*, Yang Hou*, and Lijun Sun. ["A Bayesian Gaussian mixture model for probabilistic modeling of car-following behaviors."](https://doi.org/10.1109/TITS.2023.3334909) IEEE Transactions on Intelligent Transportation Systems 25, no. 6 (2023): 5880–5891.
+* Chen, Kehua*, Meixin Zhu, Lijun Sun, and Hai Yang. ["Combining time dependency and behavioral game: A deep Markov cognitive hierarchical model for human-like discretionary lane changing modeling."](https://doi.org/10.1016/j.trb.2024.102980) Transportation Research Part B: Methodological 189 (2024): 102980.
+* Wang, Wenshuo*, Letian Wang, Chengyuan Zhang*, Changliu Liu, and Lijun Sun. ["Social interactions for autonomous driving: A review and perspectives."](https://doi.org/10.1561/2300000078) Foundations and Trends® in Robotics 10, no. 3–4 (2022): 198–376.
 
 
-
-
-Bayesian optimization
-----
-* Lei, Mengying, and Lijun Sun. ["Bayesian Kernelized Tensor Factorization as Surrogate for Bayesian Optimization."](https://arxiv.org/abs/2302.14510) arXiv preprint arXiv:2302.14510 (2023). .
-
-Reinforcement learning for traffic control (bus bunching)
+Bayesian optimization and decision-making under uncertainty
 -----
-* Wang, Jiawei, and Lijun Sun. ["Robust Dynamic Bus Control: A Distributional Multi-Agent Reinforcement Learning Approach."](https://ieeexplore.ieee.org/abstract/document/9994636) IEEE Transactions on Intelligent Transportation Systems (2022).
-* Wang, Jiawei, and Lijun Sun. ["Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning."](https://www.ijcai.org/proceedings/2021/60) Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (2021).
-* Wang, Jiawei, and Lijun Sun. ["Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework."](https://www.sciencedirect.com/science/article/pii/S0968090X20305763) Transportation Research Part C: Emerging Technologies 116 (2020): 102661.
-* Wang, Jiawei, and Lijun Sun. ["Multi-Objective Multi-Agent Deep Reinforcement Learning to Reduce Bus Bunching for Multiline Services with a Shared Corridor."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305641) Available at SSRN 4305641.
+* Lei, Mengying*, and Lijun Sun. ["Bayesian kernelized tensor factorization as surrogate for Bayesian optimization."](https://arxiv.org/abs/2302.14510) arXiv preprint arXiv:2302.14510 (2023).
+* Z. Tang, Weihua Gu, Edward Chung, and Lijun Sun. ["Surrogate-based dynamic network traffic signal optimization via a data-driven link dynamics model."](https://doi.org/10.1016/j.trc.2026.105965) Transportation Research Part C: Emerging Technologies 193 (2026): 105965.
 
-Other statistical applications
-----
-* Chen, Xiaoxu, Zhanhong Cheng, Alexandra M. Schmidt, and Lijun Sun. ["Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression."](https://arxiv.org/abs/2401.17387) arXiv preprint arXiv:2401.17387 (2024).
-* Chen, Xiaoxu, Zhanhong Cheng, Jian Gang Jin, Martin Trepanier, and Lijun Sun. ["Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model."](https://arxiv.org/abs/2206.06915) arXiv preprint arXiv:2206.06915 (2022).
-* Zhu, Kangli, Zhanhong Cheng, Jianjun Wu, Fuya Yuan, and Lijun Sun. ["Quantifying out-of-station waiting time in oversaturated urban metro systems."](https://www.sciencedirect.com/science/article/pii/S2772424722000026) Communications in Transportation Research 2 (2022): 100052.
-* Cheng, Zhanhong, Xudong Wang, Xinyuan Chen, Martin Trépanier, and Lijun Sun. ["Bayesian calibration of traffic flow fundamental diagrams using Gaussian processes."](https://ieeexplore.ieee.org/abstract/document/9943806) IEEE Open Journal of Intelligent Transportation Systems 3 (2022): 763-771.
+
+Generative AI and large language models for mobility and urban science
+-----
+* Tang, Yihong*, Menglin Kong*, J. He, Tong Nie, Wei Ma, and Lijun Sun. ["LLMSynthor: Macro-aligned micro-records synthesis with large language models."](https://doi.org/10.1145/3770855.3818965) Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (2026).
+* Tang, Yihong*, Ao Qu, X. Yu, W. Deng, J. Ma, Jinhua Zhao, and Lijun Sun. ["From street views to urban science: Discovering road safety factors with multimodal large language models."](https://doi.org/10.1016/j.trc.2026.105692) Transportation Research Part C: Emerging Technologies 188 (2026): 105692.
+* J. He, Yihong Tang*, Tong Nie, Ao Qu, Yuebing Liang, Hamzeh Alizadeh, B. Liu, Wei Ma, and Lijun Sun. ["MobEvolve: An agentic self-evolving heuristic system for interpretable human mobility generation."](https://arxiv.org/abs/2606.01640) arXiv preprint arXiv:2606.01640 (2026).
+* Tang, Yihong*, Tong Nie, J. He, Q. Huang, Dingyi Zhuang*, and Lijun Sun. ["Bridge: Retrieval-augmented spatiotemporal modeling for urban delivery demand."](https://arxiv.org/abs/2605.19172) arXiv preprint arXiv:2605.19172 (2026).
+* Xia, Yutong, Ao Qu, Yunhan Zheng, Yihong Tang*, Dingyi Zhuang*, Yuebing Liang, Shenhao Wang, Cathy Wu, Lijun Sun, Roger Zimmermann, and Jinhua Zhao. ["Reimagining urban science: Scaling causal inference with large language models."](https://arxiv.org/abs/2504.12345) arXiv preprint arXiv:2504.12345 (2025).
+* Choi, Seongjin*, Zhixiong Jin, Seung Woo Ham, Jiwon Kim, and Lijun Sun. ["A gentle introduction and tutorial on deep generative models in transportation research."](https://doi.org/10.1016/j.trc.2025.105145) Transportation Research Part C: Emerging Technologies 176 (2025): 105145.
+* Xu, Chen*, Qiang Wang, and Lijun Sun. ["Likelihood-free variational autoencoders."](https://arxiv.org/abs/2504.17622) arXiv preprint arXiv:2504.17622 (2025).
+* Liu, Fuqiang*, Sicong Jiang*, Luis Miranda-Moreno, Seongjin Choi*, and Lijun Sun. ["Adversarial vulnerabilities in large language models for time series forecasting."](https://proceedings.mlr.press/v258/liu25l.html) Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 258 (2025): 4672–4680.
+* Sun, Lijun, Alexander Erath, and Ming Cai. ["A hierarchical mixture modeling framework for population synthesis."](https://doi.org/10.1016/j.trb.2018.06.002) Transportation Research Part B: Methodological 114 (2018): 199–212.
+* Sun, Lijun, and Alexander Erath. ["A Bayesian network approach for population synthesis."](https://doi.org/10.1016/j.trc.2015.10.010) Transportation Research Part C: Emerging Technologies 61 (2015): 49–62.
+
+
+Shared mobility, travel behavior and climate
+-----
+* Zhu, Xing-hang*, Lijun Sun, and Luis Miranda-Moreno. ["Global assessment of bike-sharing sensitivity and resilience to extreme weather."](https://doi.org/10.1016/j.trd.2026.105413) Transportation Research Part D: Transport and Environment 157 (2026): 105413.
+* Wang, Xudong*, E. A. Valenzuela, C. You, Lijun Sun, and Luis Miranda-Moreno. ["The future of urban cycling: A predictive framework for climate change."](https://doi.org/10.1016/j.trd.2025.104722) Transportation Research Part D: Transport and Environment 143 (2025): 104722.
+* Chang, Annie Y. J.*, Xudong Wang*, Mojdeh Sharafi*, Luis Miranda-Moreno, and Lijun Sun. ["Headwind or tailwind? The evolution of bike-sharing and ride-hailing demand during the COVID-19 pandemic."](https://doi.org/10.1016/j.jtrangeo.2024.103944) Journal of Transport Geography 118 (2024): 103944.
+* Wang, Xudong*, Zhanhong Cheng*, Martin Trépanier, and Lijun Sun. ["Modeling bike-sharing demand using a regression model with spatially varying coefficients."](https://doi.org/10.1016/j.jtrangeo.2021.103059) Journal of Transport Geography 93 (2021): 103059.
+* Sun, Lijun, Xinyu Chen*, Zhaocheng He, and Luis Miranda-Moreno. ["Routine pattern discovery and anomaly detection in individual travel behavior."](https://doi.org/10.1007/s11067-021-09542-9) Networks and Spatial Economics 23 (2023): 407–428.
+* Sun, Lijun, Kay W. Axhausen, Der-Horng Lee, and Xianfeng Huang. ["Understanding metropolitan patterns of daily encounters."](https://doi.org/10.1073/pnas.1306440110) Proceedings of the National Academy of Sciences 110, no. 34 (2013): 13774–13779.
