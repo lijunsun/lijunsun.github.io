@@ -28,9 +28,6 @@ Inverse problems in transportation: inferring what cannot be observed
 * Chen, Xiaoxu*, Zhanhong Cheng*, and Lijun Sun. ["Bayesian inference of time-varying origin-destination matrices from boarding and alighting counts for transit services."](https://doi.org/10.1016/j.trb.2025.103278) Transportation Research Part B: Methodological 199 (2025): 103278.
 * Chen, Xiaoxu*, Yafeng Yin, and Lijun Sun. ["Inductive transportation origin-destination demand forecasting via Bayesian destination-choice modeling."](https://doi.org/10.1287/trsc.2026.0063) Transportation Science (2026), in press.
 * Chen, Xiaoxu*, Alexandra M. Schmidt, Zhenliang Ma, and Lijun Sun. ["Bayesian spatiotemporal modeling of passenger trip assignment in metro networks."](https://arxiv.org/abs/2507.22403) arXiv preprint arXiv:2507.22403 (2025).
-* Chen, Xiaoxu*, M.-O. Thibault, Martin Trépanier, and Lijun Sun. ["Statistical inference of boarding and alighting counts in transit systems with incomplete data."](https://doi.org/10.1016/j.trc.2025.105484) Transportation Research Part C: Emerging Technologies 183 (2026): 105484.
-* Zhu, Xing-hang*, Zhanhong Cheng*, Luis Miranda-Moreno, and Lijun Sun. ["ProST-CP: Probabilistic spatiotemporal CP decomposition for shared micro-mobility origin-destination demand modeling."](https://doi.org/10.1016/j.trc.2026.105874) Transportation Research Part C: Emerging Technologies 192 (2026): 105874.
-* Zhang, Xiting*, Xudong Wang*, Lijun Sun, and Luis Miranda-Moreno. ["Reconstruction of OD demand using mobile phone data: A regression model with spatially varying coefficients."](https://doi.org/10.1016/j.jtrangeo.2026.104677) Journal of Transport Geography 134 (2026): 104677.
 * Sun, Lijun, Yang Lu, Jian Gang Jin, Der-Horng Lee, and Kay W. Axhausen. ["An integrated Bayesian approach for passenger flow assignment in metro networks."](https://doi.org/10.1016/j.trc.2015.01.001) Transportation Research Part C: Emerging Technologies 52 (2015): 116–131.
 
 
@@ -42,11 +39,12 @@ Bayesian spatiotemporal modeling: kernelized tensor models and Gaussian processe
 * Lei, Mengying*, Aurelie Labbe, Yuankai Wu*, and Lijun Sun. ["Bayesian kernelized matrix factorization for spatiotemporal traffic data imputation and kriging."](https://doi.org/10.1109/TITS.2022.3161792) IEEE Transactions on Intelligent Transportation Systems 23, no. 10 (2022): 18962–18974.
 * Chen, Xinyu*, and Lijun Sun. ["Bayesian temporal factorization for multidimensional time series prediction."](https://doi.org/10.1109/TPAMI.2021.3066551) IEEE Transactions on Pattern Analysis and Machine Intelligence 44, no. 9 (2022): 4659–4673.
 * Wu, Fan, Zhanhong Cheng*, Huiyu Chen, Tony Z. Qiu, and Lijun Sun. ["Traffic state estimation with anisotropic Gaussian processes from vehicle trajectories."](https://doi.org/10.1016/j.trc.2024.104646) Transportation Research Part C: Emerging Technologies 163 (2024): 104646.
-* Lei, Mengying*, and Lijun Sun. ["Low-rank tensor learning for spatiotemporal traffic and mobility data: A survey."](https://doi.org/10.1016/j.ait.2025.100035) Artificial Intelligence for Transportation 3–4 (2025): 100035.
+
 
 
 Low-rank models, tensor completion and dynamic modes
 -----
+* Lei, Mengying*, and Lijun Sun. ["Low-rank tensor learning for spatiotemporal traffic and mobility data: A survey."](https://doi.org/10.1016/j.ait.2025.100035) Artificial Intelligence for Transportation 3–4 (2025): 100035.
 * Chen, Xinyu*, Chengyuan Zhang*, Xi-Le Zhao, Nicolas Saunier, and Lijun Sun. ["Forecasting sparse movement speed of urban road networks with nonstationary temporal matrix factorization."](https://doi.org/10.1287/trsc.2024.0629) Transportation Science 59, no. 3 (2025): 670–687.
 * Chen, Xinyu*, Zhanhong Cheng*, HanQin Cai, Nicolas Saunier, and Lijun Sun. ["Laplacian convolutional representation for traffic time series imputation."](https://doi.org/10.1109/TKDE.2024.3419698) IEEE Transactions on Knowledge and Data Engineering 36, no. 11 (2024): 6490–6502.
 * Chen, Xinyu*, Chengyuan Zhang*, Xiaoxu Chen*, Nicolas Saunier, and Lijun Sun. ["Discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression."](https://doi.org/10.1109/TKDE.2023.3294440) IEEE Transactions on Knowledge and Data Engineering 36, no. 2 (2023): 504–517.
@@ -87,7 +85,6 @@ Stochastic traffic simulation and driving behavior
 * C. Hickert, M. Samaei, A. Wang, Chengyuan Zhang*, Lijun Sun, Y. Wang, M. Ameli, and Cathy Wu. ["The calibration illusion in traffic microsimulation."](https://arxiv.org/abs/2608.19642) arXiv preprint arXiv:2608.19642 (2026).
 * Zhang, Chengyuan*, Wenshuo Wang*, and Lijun Sun. ["Calibrating car-following models via Bayesian dynamic regression."](https://doi.org/10.1016/j.trc.2024.104719) Transportation Research Part C: Emerging Technologies 168 (2024): 104719.
 * Zhang, Chengyuan*, and Lijun Sun. ["Bayesian calibration of the intelligent driver model."](https://doi.org/10.1109/TITS.2024.3354102) IEEE Transactions on Intelligent Transportation Systems 25, no. 8 (2024): 9308–9320.
-* Chen, Xiaoxu*, Chengyuan Zhang*, Zhanhong Cheng*, Yang Hou*, and Lijun Sun. ["A Bayesian Gaussian mixture model for probabilistic modeling of car-following behaviors."](https://doi.org/10.1109/TITS.2023.3334909) IEEE Transactions on Intelligent Transportation Systems 25, no. 6 (2023): 5880–5891.
 * Chen, Kehua*, Meixin Zhu, Lijun Sun, and Hai Yang. ["Combining time dependency and behavioral game: A deep Markov cognitive hierarchical model for human-like discretionary lane changing modeling."](https://doi.org/10.1016/j.trb.2024.102980) Transportation Research Part B: Methodological 189 (2024): 102980.
 * Wang, Wenshuo*, Letian Wang, Chengyuan Zhang*, Changliu Liu, and Lijun Sun. ["Social interactions for autonomous driving: A review and perspectives."](https://doi.org/10.1561/2300000078) Foundations and Trends® in Robotics 10, no. 3–4 (2022): 198–376.
 
@@ -114,6 +111,7 @@ Generative AI and large language models for mobility and urban science
 
 Shared mobility, travel behavior and climate
 -----
+* Zhu, Xing-hang*, Zhanhong Cheng*, Luis Miranda-Moreno, and Lijun Sun. ["ProST-CP: Probabilistic spatiotemporal CP decomposition for shared micro-mobility origin-destination demand modeling."](https://doi.org/10.1016/j.trc.2026.105874) Transportation Research Part C: Emerging Technologies 192 (2026): 105874.
 * Zhu, Xing-hang*, Lijun Sun, and Luis Miranda-Moreno. ["Global assessment of bike-sharing sensitivity and resilience to extreme weather."](https://doi.org/10.1016/j.trd.2026.105413) Transportation Research Part D: Transport and Environment 157 (2026): 105413.
 * Wang, Xudong*, E. A. Valenzuela, C. You, Lijun Sun, and Luis Miranda-Moreno. ["The future of urban cycling: A predictive framework for climate change."](https://doi.org/10.1016/j.trd.2025.104722) Transportation Research Part D: Transport and Environment 143 (2025): 104722.
 * Chang, Annie Y. J.*, Xudong Wang*, Mojdeh Sharafi*, Luis Miranda-Moreno, and Lijun Sun. ["Headwind or tailwind? The evolution of bike-sharing and ride-hailing demand during the COVID-19 pandemic."](https://doi.org/10.1016/j.jtrangeo.2024.103944) Journal of Transport Geography 118 (2024): 103944.
