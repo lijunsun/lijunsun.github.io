@@ -8,12 +8,14 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
+* [Chengyuan Zhang](https://chengyuan-zhang.github.io/) （2026.9-)
 * Yu Tang (2026.3-)
 * Jian Zhang (2025.1-, CSC)
 * Yang Zhao (2024.8-, CSC)
 
 
 ## PhD Students
+
 * [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 * [Guillaume Neven] (2022.9-, co-supervised with Prof. Nicolas Saunier)
 * [Qiujia Liu] (2022.9-, co-supervised with Prof. Luis Miranda-Moreno, MEDA)
@@ -22,16 +24,17 @@ Current students @ McGill University.
 * [Menglin Kong](https://scholar.google.com/citations?user=6_TaTiUAAAAJ) (2024.9-, MEITA)
 * [Yihong Tang](https://yihongt.github.io/) (2025.1-, MEITA)
 * [Alicia Qiao]() (2026.1-, MEITA)
+* [Chenxiang Ma] () (2026.9-, CIRTA)
 
 ## Master Students
 
-
+* Yuncheng Ding (2025.9-)
 
 ## Undergraduate Students
 
 
 ## Alumni
-* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-2026.5, IVADO Msc, MEDA, FRQNT B1X/B2X Scholarship)
+* [Chengyuan Zhang](https://chengyuan-zhang.github.io/) (2020.8-2026.5, IVADO Msc, MEDA, FRQNT B1X/B2X Scholarship)
 * Lorraine Cui (2025.5-2026.5, Msc Biostatistics, co-supervised with Prof. Alex Schmidt)
 * [Jiarui Xie]() (2022.9-2026.3, co-supervised with Prof. Fiona Zhao, MEDA)
 * [Mengying Lei](https://scholar.google.com/citations?user=vWdutQIAAAAJ&hl=en) (2024.1-2026.2, Postdoc, CANSSI project)
